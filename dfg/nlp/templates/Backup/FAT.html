@@ -1,0 +1,114 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>FAT</title>
+  <meta name="description" content="Description of your site goes here">
+  <meta name="keywords" content="keyword1, keyword2, keyword3">
+  <link href="{%static 'css/style.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="page-in">
+<div class="page">
+<div class="main">
+<div class="header">
+<div class="header-top">
+<h1> Digital Footprint <span>Generation</span></h1>
+</div>
+<div class="header-bottom">
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extreme Analytics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By Lean Digital</h2>
+</div>
+<div class="topmenu">
+<ul>
+  <li style="background: transparent none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; padding-left: 0px;">
+	  <a href="/"><span>Home</span></a></li>
+  <li><a href="#"><span>About&nbsp;Us</span></a></li>
+  <li><a href="#"><span>What's&nbsp;New</span></a></li>
+  <li><a href="#"><span>Experts</span></a></li>
+  <li><a href="#"><span>R&R</span></a></li>
+  <li><a href="#"><span>VOC</span></a></li>
+  <li><a href="#"><span>Repository</span></a></li>
+</ul>
+</div>
+</div>
+<div class="content">
+<div class="content-left">
+<div class="row1">
+<h1 class="title">Welcome to the <span>Fleet Analysis by NLP</span></h1>
+
+<div>
+<form name = "form" action =  "{% url 'fat' %}"  
+         method = "POST" >{% csrf_token %}
+		 
+    <input list="browsers" placeholder = "Type few characters of chart" name="chtname" style = "width:350px;"><br>
+		<datalist id="browsers">		
+			<option value="Bar">
+			<option value="Column">
+			<option value="Stacked">
+			<option value="Pie">
+		</datalist>		
+
+
+
+</div>
+
+</div>
+</div>
+<div class="content-right">
+<div class="mainmenu">
+<h2 class="sidebar1">Our Apps</h2>
+<ul>
+  <li><a href="/RTNT/">Rio Tinto Newsletter Tool</a></li>
+  <li><a href="/login/">Newsletter Automation Tool</a></li>  
+  <li><a href="/BCR/">Business Card Reader</a></li>
+  <li><a href="/TSA/">Twitter Sentimental Analysis</a></li>
+</ul>
+
+  <ul>  
+  <li><a href="/FAT/">Fleet Prediction Tool</a></li>
+  <li><a href="/SAN/">Sentimental Analysis by NLP</a></li>
+  <li><a href="/CID/">Competitive Intelligence Dashboard</a></li>
+  <li><a href="#">This is in Test Phase Tool 3</a></li>
+  <li><a href="#">This is in Test Phase Tool 4</a></li>
+  <li><a href="#">This is in Test Phase Tool 5</a></li>
+  <li><a href="#">This is in Test Phase Tool 6</a></li>  
+</ul>
+</div>
+<div class="contact">
+<h2 class="sidebar2">Contact</h2>
+<div class="contact-detail">
+<p class="green"><strong>For any Query please contact us</strong></p>
+<p><strong>Site :</strong> 1st Floor, G3, Kolkata <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IMS Analytics</p>
+<p><strong>E-mail :</strong> 
+
+<a href="mailto:imskol.dfg@genpact.com">imskol.dfg@genpact.com</a> 
+
+ </p>
+<p><strong>Phone :</strong> &nbsp;&nbsp;&nbsp;+91-9836492392<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-9836492392</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<p>&copy; Copyright 2016. Designed by <a target="_blank" href="mailto:imskol.dfg@genpact.com">DFG</a>
+</p>
+<ul>
+  <li style="border-left: medium none;">
+      <a href="/"><span>Home</span></a></li>
+  <li><a href="#"><span>About&nbsp;us</span></a></li>
+  <li><a href="#"><span>What's&nbsp;new</span></a></li>
+  <li><a href="#"><span>Experts</span></a></li>
+  <li><a href="#"><span>R&R</span></a></li>
+  <li><a href="#"><span>VOC</span></a></li>
+  <li style="padding-right: 0px;"><a href="#"><span>Repository</span></a></li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</body></html>

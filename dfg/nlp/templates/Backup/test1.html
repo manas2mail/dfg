@@ -1,0 +1,39 @@
+<html>
+	<head>
+	<script type="javascript"></script>
+   <title>BCR test</title>
+    </head>
+   <body>
+      
+      <form name = "form" action =  "{% url 'test' %}"   method = "POST" enctype="multipart/form-data" >{% csrf_token %}
+	   
+	   
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">B</font><font size="15" color="red">C</font><font size="15" color="Orange">R</font></p>
+		</div>	
+		
+		
+		<div style="margin-top:10px;" align="center"> 
+			<label for="file">Choose file to upload</label>
+			
+			<input type="file" id="myFile" name="path" multiple accept="image/*">
+			
+			<input type="Submit" value="Submit">
+		</div>	
+		
+		
+         <br>			
+         <br>
+		</form>
+
+	
+<script>
+	function myFunction() {
+		var x = document.getElementById("myFile").value;
+		document.getElementById("demo").innerHTML = x;
+	}
+</script>
+
+
+   </body>
+</html>

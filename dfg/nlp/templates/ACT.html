@@ -1,0 +1,28 @@
+<html>
+	<head>
+   <title>Hotel Aspect Classification </title>
+    </head>
+   <body>
+      
+      <form name = "form" action =  "{% url 'act' %}"          method = "POST" >{% csrf_token %}
+		
+		<div style="margin:30px 50px;" align="right"> 
+			
+	    </div>
+		
+
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">H</font><font size="15" color="red">A</font><font size="15" color="Orange">C</font><font size="15" color="Orange">T</font></p>
+		</div>	
+		<div style="margin-top:10px;" align="center"> 
+			<input type="Text" placeholder = "Hotel Name and Location: " Name="hotel_name" style = "width:550px;">
+			<input type="Submit" value="Summary"  name="btnform1">
+			<p></p>
+			<input type="Submit" value="Download"  name="btnform2">		
+		</div>	
+		
+         <br>			
+         <br>
+		</form>        
+   </body>
+</html>

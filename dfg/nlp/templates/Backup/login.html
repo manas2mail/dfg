@@ -1,0 +1,24 @@
+<html>
+	<head>
+   <title>Article Summary Tool</title>
+    </head>
+   <body>
+      
+      <form name = "form" action =  "{% url 'login' %}"  
+         method = "POST" >{% csrf_token %}
+       
+	   
+
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">D</font><font size="15" color="red">F</font><font size="15" color="Orange">G</font></p>
+		</div>	
+		<div style="margin-top:10px;" align="center"> 
+		<input type="Text" placeholder = "Article Link or Keywords: " Name="username" style = "width:550px;">
+		<input type="Submit" value="Summary">
+		</div>	
+		
+         <br>			
+         <br>
+		</form>        
+   </body>
+</html>

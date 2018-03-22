@@ -1,0 +1,38 @@
+<html>
+	<head>
+	<script type="text/javascript" src="js/bootstrap-filestyle.min.js"> </script>
+   <title>BCR test</title>
+    </head>
+   <body>
+
+   <form name = "form" action =  "{% url 'test' %}"  
+         method = "POST" >{% csrf_token %}
+		
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">B</font><font size="15" color="red">C</font><font size="15" color="Orange">R</font></p>
+		</div>
+		
+		
+		<input id="uploadFile" type="Text" placeholder="Choose File"  />
+		<div class="fileUpload btn btn-primary">
+			<span>Your name</span>
+			<input id="uploadBtn" type="file" class="upload" />
+		</div>
+
+		
+        <br>			
+         <br>
+    </form>		 
+   
+   
+   
+   	  <script>
+			document.getElementById("uploadBtn").onchange = function () 
+			{
+			document.getElementById("uploadFile").value = this.value;
+			};
+	  </script>
+	  
+	  
+   </body>
+</html>

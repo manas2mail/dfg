@@ -1,0 +1,44 @@
+<style type="text/css">
+
+table {
+
+font-family: "Lato","sans-serif";   }
+
+table.dataframe 
+{
+margin-bottom: 3em;	
+border-collapse:collapse;		
+}
+table.dataframe th 
+{
+	text-align: center;					
+	padding: 1em;
+	background-color: #e8503a;	     /* added a red background color to the heading cells  */
+	color: white;
+}
+table.dataframe td 
+{
+	text-align: center;     
+	width: 10em;					
+	padding: 1em; 	
+}
+table.dataframe tr 
+{
+	height: 1em;	
+}
+
+table tr :nth-child(even) 
+{		      /* added all even rows a #eee color  */
+      background-color: #eee;			  
+}
+
+table tr :nth-child(odd) 
+{		     /* added all odd rows a #fff color  */
+background-color:#fff;		
+}
+
+
+
+</style>
+
+		

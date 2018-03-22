@@ -1,0 +1,35 @@
+<html>
+	<head>
+	<script type="javascript"></script>
+   <title>Business Card Reader</title>
+    </head>
+   <body>
+      
+      <form name = "form" action =  "{% url 'bcr' %}"  
+         method = "POST" >{% csrf_token %}
+       
+	   
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">B</font><font size="15" color="red">C</font><font size="15" color="Orange">R</font></p>
+		</div>	
+		<div style="margin-top:10px;" align="center"> 
+		<input id="textField1" type="Text" placeholder = "Image folder/file path:" Name="path" ondblclick="document.querySelector('.inputFile').click();"  style = "width:550px;" >
+		<input class="inputFile" type="file" style="display: none;">
+		<input type="Submit" value="Extract">
+		</div>	
+         <br>			
+         <br>
+		</form>
+
+	
+		
+	  <script>
+		function myFunction() 
+		{
+			document.getElementById("textField1").value = "D:\dfg\dfg\nlp\static\bcard\1.png";
+		}
+	  </script>
+
+
+   </body>
+</html>

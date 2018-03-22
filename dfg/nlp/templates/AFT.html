@@ -1,0 +1,68 @@
+<html>
+	<head>
+   <title>Airline Fare Trends</title>
+    </head>
+   <body>
+		<form method="GET">
+			<div style="margin-top:2px;" align="center"> 
+				<p><font size="20" color="Fuchsia">{{ days|safe }}</font> 			
+			</div>
+		</form>
+	  	
+      
+      <form name = "form" action =  "{% url 'aft' %}"  
+         method = "POST" >{% csrf_token %}
+		<div style="margin:30px 50px;" align="right"> 		
+			<font size="4" color="Blue">Days</font>	
+			<select id="browsers" Name="info" style = "width:50px;">				
+				<option value="5">5</option>
+				<option value="10">10</option>
+				<option value="15">15</option>
+				<option value="20">20</option>
+				<option value="All">All</option>
+			</select>		
+				<input type="Submit" value="Download" name="btnform1">		
+	    </div>
+			
+		<div style="margin-top:100px;" align="center"> 
+			<p><font size="15" color="Blue">A</font><font size="15" color="red">F</font><font size="15" color="Orange">T</font></p>
+		</div>					
+		<div style="margin-top:10px;" align="center"> 		
+		
+		
+		
+		<input list="browsers1" placeholder = "Type few characters of Routes" Name="username" style = "width:550px;">	
+		<datalist id="browsers1">			
+			<option value="Routes-ABQ-AUS --- Albuquerque(ABQ)-Austin(AUS)">
+			<option value="Routes-ABQ-DEN --- Albuquerque(ABQ)-Denver(DEN)">
+			<option value="Routes-HNL-KOA --- Honolulu(HNL)-Kailua-Kona(KOA)">
+			<option value="Routes-HNL-LIH --- Honolulu(HNL)-Lihue(LIH)">
+			<option value="Routes-ABE-ATL --- Allentown(ABE)-Atlanta(ATL)">
+			<option value="Routes-ABE-CLT --- Allentown(ABE)-Charlotte(CLT)">
+			<option value="Routes-MCO-YUL --- Orlando(MCO)-Montreal(YUL)">
+			<option value="Routes-MCO-YYZ --- Orlando(MCO)-Toronto(YYZ)">
+			<option value="Routes-ADQ-ANC --- Kodiak(ADQ)-Anchorage(ANC)">
+			<option value="Routes-ACK-BOS --- Nantucket(ACK)-Boston(BOS)">
+			<option value="Routes-ACK-DCA --- Nantucket(ACK)-Washington(DCA)">
+		</datalist>
+		
+		<input type="Submit" value="Summary" name="btnform2">
+			
+		</div>			
+         <br>			
+      <br>
+		 
+		 
+		 
+		</form>        
+   </body>
+</html>
+
+
+
+
+
+
+
+
+

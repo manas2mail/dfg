@@ -1,0 +1,88 @@
+<html>
+   <head>
+		<meta charset="UTF-8">
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		 <title>Airline Fare Report</title>
+		  <meta name="description" content="Description of your site goes here">
+		  <meta name="keywords" content="keyword1, keyword2, keyword3">
+		  <link href="/static/css/table2.css" rel="stylesheet" type="text/css">
+		 <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css" type="text/css" />        
+		 <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.js"></script>
+		  {{ script|safe }}
+		  {{ script1|safe }}
+		  {{ script2|safe }}
+		  {{ script3|safe }}
+		  {{ script4|safe }}
+		  {{ script5|safe }}
+		  {{ script6|safe }}
+  
+    </head>
+
+	
+   <body>
+		<div style="margin-top:2px;" align="center"> 
+			<p><font size="5" color="Purple"> Hotel Aspect Classification Reports </font></p>
+			<p><font size="20" color="Fuchsia">{{ days|safe }}</font> <font size="2" color="Purple"> Days Lagging  </font>  </p> 
+	    </div>
+	
+		<table style="width:100%">
+		   <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th> {{ div|safe }} </th>
+				
+				<th> {{ div1|safe }}  </th> 
+			</div>
+		  </tr>
+		
+		 <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div3|safe }} </th>
+				<th> </th>
+				<th> {{ div4|safe }}  </th> 
+			</div>
+		 </tr>
+		 
+		 <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div5|safe }} </th>
+				<th> </th>
+				<th> {{ div6|safe }}  </th> 
+			</div>
+		 </tr>
+		 
+		  
+			
+		</table>
+		
+		<br></br>
+		<br></br>
+		<br></br>
+		<br></br>
+   </body>
+   
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+<html>
+	<head>		
+		<title>Rio Tinto Newsletter Tool</title>		
+    </head>
+   <body>
+        
+      <form name = "form" action =  "{% url 'rtnt' %}"  method = "POST" >{% csrf_token %}
+       
+		<div style="margin-top:0px;" align="right"> 
+			<input type="Submit" name ="Click me" value="Train">
+		</div>
+
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">RioTinto  </font><font size="15" color="red"> Newsletter </font><font size="15" color="Orange"> Tool</font></p>
+		</div>	
+		<div style="margin-top:10px;" align="center"> 
+		<input type="Text" placeholder = "Article Link or Keywords: " Name="username" style = "width:550px;">
+		<input type="Submit" value="Summary">
+		</div>	
+		
+		<div style="margin-top:10px;" align="center"> 	
+			<input type="radio" name="gender" value="male" checked="checked"> <font size="3" color="black">TiO2</font>		
+			<input type="radio" name="gender" value="male"> <font size="3" color="black">Lithium</font>
+		</div>	
+		
+         <br>			
+         <br>       
+         
+		</form>  
+      
+   </body>
+</html>

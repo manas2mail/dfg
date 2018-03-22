@@ -1,0 +1,24 @@
+<html>
+	<head>
+   <title>Twitter Sentimental Analysis</title>
+    </head>
+   <body>
+      
+      <form name = "form" action =  "{% url 'tsa' %}"  
+         method = "POST" >{% csrf_token %}
+       
+	   
+
+		<div style="margin-top:200px;" align="center"> 
+			<p><font size="15" color="Blue">T</font><font size="15" color="red">S</font><font size="15" color="Orange">A</font></p>
+		</div>	
+		<div style="margin-top:10px;" align="center"> 
+		<input type="Text" placeholder = "#tag or Keywords: " Name="username" style = "width:550px;">
+		<input type="Submit" value="Summary">
+		</div>	
+		
+         <br>			
+         <br>
+		</form>        
+   </body>
+</html>

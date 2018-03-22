@@ -1,0 +1,178 @@
+<html>
+   <head>
+		<meta charset="UTF-8">
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		 <title>Hotel Aspect Classification</title>
+		  <meta name="description" content="Description of your site goes here">
+		  <meta name="keywords" content="keyword1, keyword2, keyword3">
+		  <link href="/static/css/table2.css" rel="stylesheet" type="text/css">
+		 <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css" type="text/css" />        
+		 <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.js"></script>
+		  {{ script|safe }}
+		  {{ script1|safe }}
+		  {{ script2|safe }}
+		  {{ script3|safe }}
+		  {{ script3p|safe }}
+		  {{ script3n|safe }}  
+    </head>
+
+	
+   <body>
+		<div style="margin-top:2px;" align="center"> 
+			<p><font size="5" color="Purple"> Hotel Aspect Classification Reports </font></p>
+			<p><font size="20" color="Fuchsia">{{ days|safe }}</font> <font size="2" color="Purple"> Aspect Classification  </font>  </p> 		
+		</div>
+	
+		 
+		<table style="width:100%">
+		   <tr>
+			<div style="width: 100%; display: inline-block;">
+				<th> {{ div|safe }} </th>
+				<th>   </th>
+				<th> 
+					<p align="left">Avg count of Sentiment by Aspects</p>
+					{{ tblall|safe }} 
+				</th>
+			</div>				
+		  </tr>
+		
+		
+		 <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th> {{ div1|safe }}  </th> 				
+				 <th></th>
+				<th> {{ div2|safe }}  </th> 				
+			</div>
+		 </tr>
+		 
+		 
+		 <tr>
+			<div style="width: 20%; display: inline-block;">
+				 <th>  {{ div3|safe }} </th>	
+				 <th></th>
+				 <th> 
+					<p align="left">Word Frequency of all type Sentiment by Aspects</p>
+					{{ tblwf|safe }} 
+				 </th>	
+			</div>
+		 </tr>
+	
+		
+		<tr>
+			<div style="width: 20%; display: inline-block;">
+				 <th>  {{ div3p|safe }} </th>	
+				 <th></th>
+				 <th> 
+					<p align="left">Word Frequency of +ve  Sentiment by Aspects</p>
+					{{ tblwfp|safe }} 
+				 </th>	
+			</div>
+		 </tr>
+	
+	
+		 <tr>
+			<div style="width: 20%; display: inline-block;">
+				 <th>  {{ div3n|safe }} </th>	
+				 <th></th>
+				 <th> 
+					<p align="left">Word Frequency of -ve  Sentiment by Aspects</p>
+					{{ tblwfn|safe }} 
+				 </th>	
+			</div>
+		 </tr>
+		 
+		 
+		 
+		 <tr>
+			<div style="width: 100%; display: inline-block;">
+				<th> 
+				 <font size="3" color ="blue"> Top 6 set of important keywords    </font>	
+				 {{ df_lda|safe }} 
+				 </th>
+				 <th> </th>
+				 <th>
+				    <font size="3" color ="blue"> Overall important keywords in word cloud        </font>	
+					{{ htm|safe }} 				 		
+				</th>
+				
+			</div>		
+		 </tr>
+
+		 
+		 <tr>
+			<div style="width: 100%; display: inline-block;">
+				<th> 
+				 <font size="3" color ="blue"> Top 6 set of important keywords for +ve reviews </font>	
+				 {{ df_ldap|safe }} 
+				 </th>
+				 <th> </th>
+				 <th>
+				    <font size="3" color ="blue"> important keywords in word cloud for +ve reviews</font>	
+					{{ htmp|safe }} 				 		
+				</th>				
+			</div>	
+		 </tr>
+		 
+		 
+		 <tr>	
+			<div style="width: 100%; display: inline-block;">
+				<th> 
+				 <font size="3" color ="blue"> Top 6 set of important keywords for -ve reviews </font>	
+				 {{ df_ldan|safe }} 
+				 </th>
+				 <th> </th>
+				 <th>
+				    <font size="3" color ="blue"> important keywords in word cloud for -ve reviews</font>	
+					{{ htmn|safe }} 	
+										 <p></p>
+						 <p></p>
+						 <p></p>
+						 
+				</th>				
+			</div>	
+		 </tr>		 
+		 
+		 <tr>
+			<div style="width: 20%; display: inline-block;">				 
+				 <th> 
+					<p align="left">Sample output  data </p>
+					{{df_smpl|safe }} 						 
+				 </th>	
+			</div>
+		 </tr>
+
+		</table>
+		<p></p>
+		
+		<br></br>
+		<br></br>
+		<br></br>
+		<br></br>
+   </body>
+   
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

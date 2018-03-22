@@ -1,0 +1,20 @@
+<html>
+   <head>
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+   <title>AST-Summary</title>
+    </head>
+   <body>
+		<br></br>
+		<table style="width:100%">
+		  <tr>
+			<th>Summary</th>
+			<th>Sentiment</th> 
+			<th>Keywords</th>
+		  </tr>
+			{{ username|safe }} 
+			
+		</table>
+   </body>
+   
+</html>

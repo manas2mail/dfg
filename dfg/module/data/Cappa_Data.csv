@@ -1,0 +1,1464 @@
+0,American Airlines,Operating revenue,Operating revenue,"40,419.00","42,650.00","40,990.00"
+1,American Airlines,Operating revenue,Passenger,"35,542.00","37,124.00","35,512.00"
+2,American Airlines,Operating revenue,Cargo,830,875,760
+3,American Airlines,Operating revenue,Others,"4,047.00","4,651.00","4,718.00"
+4,American Airlines,Operating costs,Operating costs,"37,840.00","38,401.00","34,786.00"
+5,American Airlines,Operating costs,Aircraft fuel,"11,109.00","10,592.00","6,226.00"
+6,American Airlines,Operating costs,"Wages, salaries and benefits","7,887.00","8,508.00","9,524.00"
+7,American Airlines,Operating costs,Regional expenses,"6,417.00","6,516.00","5,983.00"
+8,American Airlines,Operating costs,"Maintenance, materials and repairs","1,927.00","2,051.00","1,889.00"
+9,American Airlines,Operating costs,Landing fees and other rentals,"1,699.00","1,727.00","1,731.00"
+10,American Airlines,Operating costs,Aircraft rent,"1,336.00","1,250.00","1,250.00"
+11,American Airlines,Operating costs,Selling expense,"1,608.00","1,544.00","1,394.00"
+12,American Airlines,Operating costs,Depreciation and amortisation,"1,132.00","1,295.00","1,364.00"
+13,American Airlines,Operating profit (loss),Operating profit (loss),"2,579.00","4,249.00","6,204.00"
+14,American Airlines,Net profit (loss),Net profit (loss),"-1,233.00","2,882.00","7,610.00"
+15,American Airlines,Total assets,Total assets,"42,278.00","43,225.00","48,415.00"
+16,American Airlines,CASH,CASH,"1,140.00",994,390
+17,American Airlines,Total liabilities,Total liabilities,"45,009.00","41,204.00","42,780.00"
+0,Delta Air Lines,Operating revenue,Operating revenue,"37,773.00","40,362.00","40,704.00"
+1,Delta Air Lines,Operating revenue,Passenger,"32,942.00","34,954.00","34,782.00"
+2,Delta Air Lines,Operating revenue,Cargo,937,934,813
+3,Delta Air Lines,Operating revenue,Others,"3,894.00","4,474.00","5,109.00"
+4,Delta Air Lines,Operating costs,Operating costs,"34,373.00","38,156.00","32,902.00"
+5,Delta Air Lines,Operating costs,Aircraft fuel,"9,397.00","11,668.00","6,544.00"
+6,Delta Air Lines,Operating costs,Salaries and related costs,"7,720.00","8,120.00","8,776.00"
+7,Delta Air Lines,Operating costs,Regional carrier expense,"5,669.00","5,237.00","4,241.00"
+8,Delta Air Lines,Operating costs,Aircraft maintenance materials and outside repairs,"1,852.00","1,828.00","1,848.00"
+9,Delta Air Lines,Operating costs,Contract services,"1,665.00","1,749.00","1,848.00"
+10,Delta Air Lines,Operating costs,Depreciation and amortisation,"1,658.00","1,771.00","1,835.00"
+11,Delta Air Lines,Operating costs,Passenger commissions and other selling expenses,"1,603.00","1,700.00","1,672.00"
+12,Delta Air Lines,Operating costs,Landing fees and other rents,"1,410.00","1,442.00","1,493.00"
+13,Delta Air Lines,Operating costs,Passenger service,762,810,872
+14,Delta Air Lines,Operating costs,Profit sharing,506,"1,085.00","1,490.00"
+15,Delta Air Lines,Operating costs,Aircraft rent,209,233,250
+16,Delta Air Lines,Operating profit (loss),Operating profit (loss),"3,400.00","2,206.00","7,802.00"
+17,Delta Air Lines,Net profit (loss),Net profit (loss),"10,540.00",659,"4,526.00"
+18,Delta Air Lines,Total assets,Total assets,"52,252.00","54,005.00","53,134.00"
+19,Delta Air Lines,Cash and cash equivalents,Cash and cash equivalents,"2,844.00","2,088.00","1,972.00"
+20,Delta Air Lines,Total liabilities,Total liabilities,"40,609.00","45,192.00","42,014.00"
+0,China Southern Airlines,Operating revenue,Operating revenue,"98,547.00","108,584.00","111,652.00"
+1,China Southern Airlines,Operating revenue,Passenger,"88,271.00","97,145.00","100,238.00"
+2,China Southern Airlines,Operating revenue,Cargo and mail,"6,413.00","7,183.00","6,861.00"
+3,China Southern Airlines,Operating costs,Operating costs,"98,280.00","106,026.00","101,492.00"
+4,China Southern Airlines,Operating costs,Fuel,"35,538.00","37,728.00","26,274.00"
+5,China Southern Airlines,Operating costs,Aircraft and traffic servicing,"15,091.00","16,402.00","17,908.00"
+6,China Southern Airlines,Operating costs,Maintenance,"7,805.00","8,304.00","10,407.00"
+7,China Southern Airlines,Operating costs,Promotion and sales,"7,754.00","7,841.00","6,976.00"
+8,China Southern Airlines,Operating costs,Operating lease charges,"4,767.00","5,383.00","6,153.00"
+9,China Southern Airlines,Operating costs,Flight personnel payroll and welfare,"5,799.00","6,803.00","8,070.00"
+10,China Southern Airlines,Operating costs,Depreciation and amortisation,"9,347.00","10,828.00","11,845.00"
+11,China Southern Airlines,Operating profit (loss),Operating profit (loss),"1,510.00","4,748.00","13,438.00"
+12,China Southern Airlines,Net profit (loss),Net profit (loss),"2,750.00","2,398.00","4,818.00"
+13,China Southern Airlines,Total assets,Total assets,"165,207.00","189,688.00","185,989.00"
+14,China Southern Airlines,Cash and cash equivalents,Cash and cash equivalents,"11,748.00","15,414.00","4,560.00"
+15,China Southern Airlines,Total liabilities,Total liabilities,"122,756.00","145,195.00","136,365.00"
+0,FedEx,Total revenue,Total revenue,"27,171.00","27,121.00","27,239.00"
+1,FedEx,Total operating costs,Total operating costs,"26,616.00","25,693.00","25,655.00"
+2,FedEx,Total operating costs,Salaries and employees benefits,"10,045.00","9,797.00","10,104.00"
+3,FedEx,Total operating costs,Fuel,"4,130.00","3,943.00","3,199.00"
+4,FedEx,Total operating costs,Purchased transportation,"2,331.00","2,511.00","2,544.00"
+5,FedEx,Total operating costs,Rentals and landing fees,"1,684.00","1,705.00","1,693.00"
+6,FedEx,Total operating costs,Depreciation and amortisation,"1,350.00","1,488.00","1,460.00"
+7,FedEx,Total operating costs,Maintenance and repairs,"1,244.00","1,182.00","1,357.00"
+8,FedEx,Operating profit (loss),Operating profit (loss),555,"1,428.00","1,584.00"
+0,ExpressJet Airlines,Total operating revenue,Total operating revenue,"3,297.70","3,237.40","3,095.60"
+1,ExpressJet Airlines,Total operating revenue,Passenger,"3,239.50","3,168.00","3,030.00"
+2,ExpressJet Airlines,Total operating revenue,Ground handling and other,58.2,"69,447.00",65.5
+3,ExpressJet Airlines,Total operating costs,Total operating costs,"3,144.60","3,212.60","2,861.00"
+4,ExpressJet Airlines,Total operating costs,"Salaries, wages and benefits","1,211.30","1,258.20","1,203.30"
+5,ExpressJet Airlines,Total operating costs,"Aircraft maintenance, materials and repairs",686.4,682.8,604.9
+6,ExpressJet Airlines,Total operating costs,Aircraft fuel,193.5,193.2,118.1
+7,ExpressJet Airlines,Total operating costs,Aircraft rentals,325.4,305.3,273.7
+8,ExpressJet Airlines,Total operating costs,Depreciation and amortisation,25,259.6,264.5
+9,ExpressJet Airlines,Total operating costs,Station rentals and landing fees,114.7,51,
+10,ExpressJet Airlines,Total operating costs,Ground handling services,129.1,123.9,82.7
+11,ExpressJet Airlines,Operating profit (loss),Operating profit (loss),153.1,24.8,234.5
+12,ExpressJet Airlines,Net profit (loss),Net profit (loss),59,-24.2,117.8
+13,ExpressJet Airlines,Total assets,Total assets,"4,233.20","4,409.90","4,802.90"
+14,ExpressJet Airlines,"Cash, restricted cash and marketable securities","Cash, restricted cash and marketable securities",670.1,559.1,497.9
+15,ExpressJet Airlines,Total liabilities,Total liabilities,"2,798.30","3,009.60","3,296.50"
+0,British Airways,Operating revenue,Operating revenue,"18,675.00","20,170.00","22,858.00"
+1,British Airways,Operating revenue,Passenger,"16,264.00","17,825.00","20,350.00"
+2,British Airways,Operating revenue,Cargo,"1,073.00",992,"1,024.00"
+3,British Airways,Operating costs,Operating costs,"17,905.00","18,780.00","20,523.00"
+4,British Airways,Operating costs,Employee costs,"4,123.00","4,325.00","4,905.00"
+5,British Airways,Operating costs,Fuel and oil costs,"5,951.00","5,987.00","6,082.00"
+6,British Airways,Operating costs,"Handling, catering and other operating costs","1,932.00","2,063.00","2,371.00"
+7,British Airways,Operating costs,Landing fees and en-route charges,"1,422.00","1,555.00","1,882.00"
+8,British Airways,Operating costs,Engineering and other aircraft costs,"1,237.00","1,276.00","1,395.00"
+9,British Airways,Operating costs,"Depreciation, amortisation and impairment","1,006.00","1,196.00","1,307.00"
+10,British Airways,Operating costs,"Property, IT and other costs",922,927,965
+11,British Airways,Operating costs,Selling costs,785,859,912
+12,British Airways,Operating costs,Aircraft operating lease,482,551,659
+13,British Airways,Operating profit (loss),Operating profit (loss),770,"1,390.00","2,335.00"
+14,British Airways,Net profit (loss),Net profit (loss),147,"1,003.00","1,539.00"
+15,British Airways,Total assets,Total assets,"20,777.00","23,652.00","28,229.00"
+16,British Airways,Cash and cash equivalents,Cash and cash equivalents,"1,541.00","1,528.00","2,909.00"
+17,British Airways,Total liabilities,Total liabilities,"16,561.00","19,859.00","22,695.00"
+0,Lufthansa,Operating revenue,Operating revenue,"33,033.00","32,228.00","32,176.00"
+1,Lufthansa,Operating revenue,Passenger airline group,"23,559.00","23,513.00","23,320.00"
+2,Lufthansa,Operating revenue,Logistics,"2,793.00","2,519.00","2,535.00"
+3,Lufthansa,Operating revenue,MRO,"4,341.00","4,584.00","4,729.00"
+4,Lufthansa,Operating revenue,IT Services,629,676,683
+5,Lufthansa,Operating revenue,Catering,"2,604.00","2,619.00","2,733.00"
+6,Lufthansa,Operating costs,Operating costs,"31,411.00","31,379.00","31,409.00"
+7,Lufthansa,Operating costs,Fuel,"7,392.00","7,058.00","6,751.00"
+8,Lufthansa,Operating costs,Staff costs,"6,741.00","7,350.00","7,335.00"
+9,Lufthansa,Operating costs,Fees and charges,"5,167.00","5,154.00","5,265.00"
+10,Lufthansa,Operating costs,"Depreciation, amortisation and impairment","1,839.00","1,766.00","1,512.00"
+11,Lufthansa,Operating profit (loss),Operating profit (loss),839,697,767
+12,Lufthansa,Operating profit (loss),Passenger Airline Group,556,495,553
+13,Lufthansa,Net profit (loss),Net profit (loss),"1,228.00",313,55
+14,Lufthansa,Total assets,Total assets,"28,559.00","29,084.00","30,474.00"
+15,Lufthansa,Cash and cash equivalents,Cash and cash equivalents,"1,436.00","1,550.00",953
+16,Lufthansa,Total liabilities,Total liabilities,"23,720.00","22,976.00","26,443.00"
+0,Emirates Airline,Operating revenue,Operating revenue,"80,717.00","86,728.00","83,500.00"
+1,Emirates Airline,Operating revenue,Passenger,"65,405.00","70,013.00","68,029.00"
+2,Emirates Airline,Operating revenue,Cargo,"11,263.00","12,298.00","11,140.00"
+3,Emirates Airline,Operating revenue,Excess baggage,412,436,413
+4,Emirates Airline,Operating costs,Operating costs,"78,376.00","82,926.00","76,714.00"
+5,Emirates Airline,Operating costs,Fuel and oil,"30,685.00","28,690.00","19,731.00"
+6,Emirates Airline,Operating costs,Employee,"10,230.00","11,851.00","12,452.00"
+7,Emirates Airline,Operating costs,Aircraft operating leases,"6,548.00","6,920.00","8,085.00"
+8,Emirates Airline,Operating costs,Sales and marketing,"5,421.00","6,098.00","5,893.00"
+9,Emirates Airline,Operating costs,Handling,"4,648.00","5,094.00","5,646.00"
+10,Emirates Airline,Operating costs,Depreciation and amortisation,"6,421.00","7,446.00","8,000.00"
+11,Emirates Airline,Operating profit (loss),Operating profit (loss),"4,260.00","5,893.00","8,330.00"
+12,Emirates Airline,Net profit (loss),Net profit (loss),"3,254.00","4,555.00","7,125.00"
+13,Emirates Airline,Total assets,Total assets,"101,604.00","111,362.00","119,179.00"
+14,Emirates Airline,Cash and cash equivalents,Cash and cash equivalents,"7,807.00","8,397.00","12,427.00"
+15,Emirates Airline,Total liabilities,Total liabilities,"76,133.00","83,076.00","86,774.00"
+16,Emirates Airline,Total liabilities,Inflight catering and other operating costs,,,"4,114.00"
+17,Emirates Airline,Total liabilities,Overflying,,,"2,711.00"
+18,Emirates Airline,Total liabilities,Aircraft maintenance,,,"2,513.00"
+19,Emirates Airline,Total liabilities,Facilities and IT costs,,,"2,347.00"
+20,Emirates Airline,Total liabilities,Landing and parking,,,"1,992.00"
+0,easyJet,Operating revenue,Operating revenue,"4,258.00","4,527.00","4,686.00"
+1,easyJet,Operating costs,Operating costs,"3,761.00","3,946.00","3,998.00"
+2,easyJet,Operating costs,Aircraft fuel,"1,182.00","1,251.00","1,199.00"
+3,easyJet,Operating costs,Ground operations,"1,078.00","1,107.00","1,122.00"
+4,easyJet,Operating costs,Crew,454,479,505
+5,easyJet,Operating costs,Navigation,294,307,313
+6,easyJet,Operating costs,Maintenance,212,212,229
+7,easyJet,Operating profit (loss),Operating profit (loss),497,581,688
+8,easyJet,Net profit (loss),Net profit (loss),398,450,548
+9,easyJet,Total assets,Total assets,"4,412.00","4,482.00","4,828.00"
+10,easyJet,Cash and cash equivalents,Cash and cash equivalents,"1,013.00",424,650
+11,easyJet,Total liabilities,Total liabilities,"2,395.00","2,310.00","2,579.00"
+0,Air France,Operating revenue,Operating revenue,"25,520.00","24,912.00","26,059.00"
+1,Air France,Operating revenue,Passenger,"20,112.00","19,570.00","20,541.00"
+2,Air France,Operating revenue,Cargo,"2,816.00","2,681.00","2,425.00"
+3,Air France,Operating costs,Operating costs,"25,400.00","25,567.00","26,359.00"
+4,Air France,Operating costs,Salaries and related costs,"7,482.00","7,636.00","7,852.00"
+5,Air France,Operating costs,Aircraft fuel,"6,897.00","6,629.00","6,183.00"
+6,Air France,Operating costs,"Amortisation, depreciation and provisions","1,725.00","1,718.00","1,631.00"
+7,Air France,Operating costs,Landing fees and en route charges,"1,839.00","1,840.00","1,947.00"
+8,Air France,Operating costs,Handling charges and other operating costs,"1,405.00","1,476.00","1,536.00"
+9,Air France,Operating costs,Aircraft maintenance,"1,303.00","1,729.00","2,372.00"
+10,Air France,Operating costs,Aircraft operating lease,913,873,"1,027.00"
+11,Air France,Operating costs,Commercial and distribution,852,870,896
+12,Air France,Operating costs,Catering,589,591,655
+13,Air France,Operating costs,Chartering costs,455,438,430
+14,Air France,Operating profit (loss),Operating profit (loss),130,-129,816
+15,Air France,Net profit (loss),Net profit (loss),"-1,818.00",-216,127
+16,Air France,Total assets,Total assets,"25,423.00","23,241.00","23,335.00"
+17,Air France,Cash and cash equivalents,Cash and cash equivalents,"3,684.00","3,159.00","3,104.00"
+18,Air France,Total liabilities,Total liabilities,"23,133.00","23,894.00","23,062.00"
+0,jetBlue Airways,Operating revenue,Operating revenue,"5,441.00","5,817.00","6,416.00"
+1,jetBlue Airways,Operating revenue,Passenger,"4,971.00","5,343.00","5,893.00"
+2,jetBlue Airways,Operating revenue,Others,470,474,523
+3,jetBlue Airways,Operating costs,Operating costs,"5,013.00","5,302.00","5,200.00"
+4,jetBlue Airways,Operating costs,Aircraft fuel,"1,899.00","1,912.00","1,348.00"
+5,jetBlue Airways,Operating costs,"Salaries, wages and benefits","1,135.00","1,294.00","1,540.00"
+6,jetBlue Airways,Operating costs,Landing fees and other rents,305,321,342
+7,jetBlue Airways,Operating costs,Maintanence materials and repairs,432,418,490
+8,jetBlue Airways,Operating costs,Sales and marketing,223,231,264
+9,jetBlue Airways,Operating costs,Depreciation and amortisation,290,320,345
+10,jetBlue Airways,Operating costs,Aircraft rent,128,124,122
+11,jetBlue Airways,Operating profit (loss),Operating profit (loss),428,515,"1,216.00"
+12,jetBlue Airways,Net profit (loss),Net profit (loss),168,401,677
+13,jetBlue Airways,Total assets,Total assets,"7,350.00","7,839.00","8,660.00"
+14,jetBlue Airways,Cash and cash equivalents,Cash and cash equivalents,225,341,318
+15,jetBlue Airways,Total liabilities,Total liabilities,"5,216.00","5,310.00","5,450.00"
+0,Endeavor Air,Operating revenue,Operating revenue,"37,773.00","40,362.00","40,704.00"
+1,Endeavor Air,Operating revenue,Passenger,"32,942.00","34,954.00","34,782.00"
+2,Endeavor Air,Operating revenue,Cargo,937,934,813
+3,Endeavor Air,Operating revenue,Others,"3,894.00","4,474.00","5,109.00"
+4,Endeavor Air,Operating costs,Operating costs,"34,373.00","38,156.00","32,902.00"
+5,Endeavor Air,Operating costs,Aircraft fuel,"9,397.00","11,668.00","6,544.00"
+6,Endeavor Air,Operating costs,Salaries and related costs,"7,720.00","8,120.00","8,776.00"
+7,Endeavor Air,Operating costs,Regional carrier expense,"5,669.00","5,237.00","4,241.00"
+8,Endeavor Air,Operating costs,Aircraft maintenance materials and outside repairs,"1,852.00","1,828.00","1,848.00"
+9,Endeavor Air,Operating costs,Contract services,"1,665.00","1,749.00","1,848.00"
+10,Endeavor Air,Operating costs,Depreciation and amortisation,"1,658.00","1,771.00","1,835.00"
+11,Endeavor Air,Operating costs,Passenger commissions and other selling expenses,"1,603.00","1,700.00","1,672.00"
+12,Endeavor Air,Operating costs,Landing fees and other rents,"1,410.00","1,442.00","1,493.00"
+13,Endeavor Air,Operating costs,Passenger service,762,810,872
+14,Endeavor Air,Operating costs,Profit sharing,506,"1,085.00","1,490.00"
+15,Endeavor Air,Operating costs,Aircraft rent,209,233,250
+16,Endeavor Air,Operating profit (loss),Operating profit (loss),"3,400.00","2,206.00","7,802.00"
+17,Endeavor Air,Net profit (loss),Net profit (loss),"10,540.00",659,"4,526.00"
+18,Endeavor Air,Total assets,Total assets,"52,252.00","54,005.00","53,134.00"
+19,Endeavor Air,Cash and cash equivalents,Cash and cash equivalents,"2,844.00","2,088.00","1,972.00"
+20,Endeavor Air,Total liabilities,Total liabilities,"40,609.00","45,192.00","42,014.00"
+0,Envoy,Operating revenue,Operating revenue,"40,419.00","42,650.00","40,990.00"
+1,Envoy,Operating revenue,Passenger,"35,542.00","37,124.00","35,512.00"
+2,Envoy,Operating revenue,Cargo,830,875,760
+3,Envoy,Operating revenue,Others,"4,047.00","4,651.00","4,718.00"
+4,Envoy,Operating costs,Operating costs,"37,840.00","38,401.00","34,786.00"
+5,Envoy,Operating costs,Aircraft fuel,"11,109.00","10,592.00","6,226.00"
+6,Envoy,Operating costs,"Wages, salaries and benefits","7,887.00","8,508.00","9,524.00"
+7,Envoy,Operating costs,Regional expenses,"6,417.00","6,516.00","5,983.00"
+8,Envoy,Operating costs,"Maintenance, materials and repairs","1,927.00","2,051.00","1,889.00"
+9,Envoy,Operating costs,Landing fees and other rentals,"1,699.00","1,727.00","1,731.00"
+10,Envoy,Operating costs,Aircraft rent,"1,336.00","1,250.00","1,250.00"
+11,Envoy,Operating costs,Selling expense,"1,608.00","1,544.00","1,394.00"
+12,Envoy,Operating costs,Depreciation and amortisation,"1,132.00","1,295.00","1,364.00"
+13,Envoy,Operating profit (loss),Operating profit (loss),"2,579.00","4,249.00","6,204.00"
+14,Envoy,Net profit (loss),Net profit (loss),"-1,233.00","2,882.00","7,610.00"
+15,Envoy,Total assets,Total assets,"42,278.00","43,225.00","48,415.00"
+16,Envoy,CASH,CASH,"1,140.00",994,390
+17,Envoy,Total liabilities,Total liabilities,"45,009.00","41,204.00","42,780.00"
+0,Korean Air,Total revenue,Total revenue,"12,719,600.00","11,848,700.00","11,909,748.00"
+1,Korean Air,Total revenue,Passenger,"7,932,600.00",,
+2,Korean Air,Total revenue,Cargo,"3,098,800.00",,
+3,Korean Air,Operating costs,Operating costs,"11,992,300.00","10,753,600.00","11,514,701.00"
+4,Korean Air,Operating costs,Fuel,"4,754,200.00","4,352,400.00","4,018,839.00"
+5,Korean Air,Operating costs,Labor,"1,645,700.00","1,698,300.00","1,636,372.00"
+6,Korean Air,Operating costs,Rental,"220,900.00","417,100.00",
+7,Korean Air,Operating costs,Depreciation,"1,486,300.00","1,531,800.00",
+8,Korean Air,Operating profit (loss),Operating profit (loss),"318,600.00","-19,600.00","395,047.00"
+9,Korean Air,Net profit (loss),Net profit (loss),"256,400.00","-225,000.00","-457,822.00"
+10,Korean Air,Total assets,Total assets,"22,973,400.00","22,920,400.00","23,465,724.00"
+11,Korean Air,Cash and cash equivalents,Cash and cash equivalents,"1,250,002.00","1,005,505.20","796,604.00"
+12,Korean Air,Total liabilities,Total liabilities,"20,069,000.00","20,180,200.00","21,264,566.00"
+0,Hainan Airlines,Operating revenue,Operating revenue,"28,867.60","30,231.40","36,043.80"
+1,Hainan Airlines,Operating costs,Operating costs,"21,557.60","23,501.20","34,100.60"
+2,Hainan Airlines,Operating profit (loss),Operating profit (loss),"1,991.90","2,265.20","2,498.70"
+3,Hainan Airlines,Net profit (loss),Net profit (loss),"1,927.80","2,105.10","2,642.60"
+4,Hainan Airlines,Total assets,Total assets,"92,719.10","103,281.90","121,982.00"
+5,Hainan Airlines,Cash and cash equivalents,Cash and cash equivalents,"22,312.40","20,664.80","21,715.60"
+6,Hainan Airlines,Total liabilities,Total liabilities,"68,809.90","77,758.10","90,257.30"
+7,Hainan Airlines,Total liabilities,Passenger,,,"31,459.60"
+8,Hainan Airlines,Total liabilities,Cargo and excess baggage,,,893.5
+0,Air Canada,Operating revenue,Operating revenue,"12,382.00","13,272.00","13,868.00"
+1,Air Canada,Operating revenue,Passenger,"11,021.00","11,804.00","12,420.00"
+2,Air Canada,Operating revenue,Cargo,474,502,506
+3,Air Canada,Operating costs,Operating costs,"11,763.00","12,457.00","12,372.00"
+4,Air Canada,Operating costs,Aircraft fuel,"3,534.00","3,747.00","2,464.00"
+5,Air Canada,Operating costs,"Wages, salaries and benefits","2,247.00","2,282.00","2,324.00"
+6,Air Canada,Operating costs,Airport and navigation fees,983,"1,031.00",802
+7,Air Canada,Operating costs,Capacity purchase agreements,"1,123.00","1,182.00",
+8,Air Canada,Operating costs,Depreciation and amortisation,578,543,655
+9,Air Canada,Operating costs,Aircraft maintenance,632,728,773
+10,Air Canada,Operating costs,Sales and distribution,613,672,608
+11,Air Canada,Operating costs,Aircraft rent,318,313,353
+12,Air Canada,Operating profit (loss),Operating profit (loss),619,815,"1,496.00"
+13,Air Canada,Net profit (loss),Net profit (loss),6,105,308
+14,Air Canada,Total assets,Total assets,"9,470.00","10,648.00","13,127.00"
+15,Air Canada,"Cash, cash equivalents and short-term investments","Cash, cash equivalents and short-term investments","2,208.00","2,275.00","2,672.00"
+16,Air Canada,Total liabilities,Total liabilities,"10,867.00","11,781.00","13,087.00"
+17,Air Canada,Total liabilities,Regional airlines,,,"2,279.00"
+0,Japan Airlines,Operating revenue,Operating revenue,"1,204,800.00","1,238,839.00","1,309,343.00"
+1,Japan Airlines,Operating revenue,Passenger,"866,300.00","891,871.00","924,992.00"
+2,Japan Airlines,Operating revenue,Cargo,"78,800.00","75,566.00","79,685.00"
+3,Japan Airlines,Operating costs,Operating costs,"999,800.00","1,043,596.00","1,142,500.00"
+4,Japan Airlines,Operating costs,"Wages, salaries and benefits","213,600.00","226,700.00","235,200.00"
+5,Japan Airlines,Operating costs,Aircraft fuel,"232,900.00","246,300.00","283,300.00"
+6,Japan Airlines,Operating costs,Landing fees and other rent,"71,600.00","75,100.00","80,200.00"
+7,Japan Airlines,Operating profit (loss),Operating profit (loss),"204,900.00","195,242.00","166,792.00"
+8,Japan Airlines,Net profit (loss),Net profit (loss),"186,600.00","171,672.00","166,251.00"
+9,Japan Airlines,Total assets,Total assets,"1,087,600.00","1,216,612.00","1,340,168.00"
+10,Japan Airlines,Cash and cash equivalents,Cash and cash equivalents,"272,400.00","347,986.00","368,774.00"
+11,Japan Airlines,Total liabilities,Total liabilities,"673,766.00","633,423.00","629,103.00"
+0,Alaska Airlines,Operating revenue,Operating revenue,"5,156.00","5,368.00","5,598.00"
+1,Alaska Airlines,Operating revenue,Passenger,"4,267.00","4,579.00","4,793.00"
+2,Alaska Airlines,Operating revenue,Freight and mail,113,114,108
+3,Alaska Airlines,Operating costs,Operating costs,"4,318.00","4,406.00","4,300.00"
+4,Alaska Airlines,Operating costs,Wages and benefits,"1,086.00","1,136.00","1,254.00"
+5,Alaska Airlines,Operating costs,"Aircraft fuel, including hedging gains and losses","1,467.00","1,418.00",954
+6,Alaska Airlines,Operating costs,Aircraft maintenance,247,229,253
+7,Alaska Airlines,Operating costs,Landing fees and other rentals,262,279,296
+8,Alaska Airlines,Operating costs,Depreciation and amortisation,270,294,320
+9,Alaska Airlines,Operating costs,Food and beverages,84,93,113
+10,Alaska Airlines,Operating costs,Variable incentive pay,105,116,120
+11,Alaska Airlines,Operating costs,Aircraft rent,119,110,105
+12,Alaska Airlines,Operating costs,Contracted services,221,196,214
+13,Alaska Airlines,Operating costs,Selling expenses,179,199,211
+14,Alaska Airlines,Operating costs,Third party regional carrier expense,,58,72
+15,Alaska Airlines,Operating profit (loss),Operating profit (loss),838,962,"1,298.00"
+16,Alaska Airlines,Net profit (loss),Net profit (loss),508,605,848
+17,Alaska Airlines,Total assets,Total assets,"5,838.00","6,064.00","6,533.00"
+18,Alaska Airlines,Cash and cash equivalents,Cash and cash equivalents,80,107,73
+19,Alaska Airlines,Total liabilities,Total liabilities,"3,809.00","3,937.00","4,122.00"
+0,Cathay Pacific,Operating revenue,Operating revenue,"100,484.00","105,991.00","102,342.00"
+1,Cathay Pacific,Operating revenue,Passenger,"71,826.00","75,734.00","73,047.00"
+2,Cathay Pacific,Operating revenue,Cargo,"23,663.00","25,400.00","23,122.00"
+3,Cathay Pacific,Operating revenue,Others,"4,995.00","4,857.00","6,173.00"
+4,Cathay Pacific,Operating costs,Operating costs,"96,724.00","101,556.00","95,678.00"
+5,Cathay Pacific,Operating costs,Fuel,"38,132.00","40,299.00","32,968.00"
+6,Cathay Pacific,Operating costs,Staff,"17,027.00","18,101.00","18,990.00"
+7,Cathay Pacific,Operating costs,"Landing, parking and route expenses","13,531.00","14,196.00","14,675.00"
+8,Cathay Pacific,Operating costs,Aircraft depreciation and operating leases,"9,537.00","10,411.00","10,883.00"
+9,Cathay Pacific,Operating costs,Aircraft maintenance,"7,542.00","7,077.00","7,504.00"
+10,Cathay Pacific,Operating costs,Inflight service and passenger expenses,"4,138.00","4,438.00","4,713.00"
+11,Cathay Pacific,Operating costs,"Other depreciation, amortisation and operating leases","1,926.00","2,116.00","2,310.00"
+12,Cathay Pacific,Operating costs,Commissions,775,799,798
+13,Cathay Pacific,Operating profit (loss),Operating profit (loss),"3,760.00","4,435.00","6,664.00"
+14,Cathay Pacific,Net profit (loss),Net profit (loss),"2,904.00","3,450.00","6,308.00"
+15,Cathay Pacific,Total assets,Total assets,"171,575.00","171,974.00","172,827.00"
+16,Cathay Pacific,Cash and cash equivalents,Cash and cash equivalents,"12,359.00","10,211.00","7,207.00"
+17,Cathay Pacific,Total liabilities,Total liabilities,"108,562.00","120,121.00","124,760.00"
+0,Garuda Indonesia,Operating revenue,Operating revenue,"3,759,450,23","3,933,530,27","3,814,989,74"
+1,Garuda Indonesia,Operating revenue,Passenger,"2,955,288,70","3,147,243,02","3,002,777,94"
+2,Garuda Indonesia,Operating revenue,Cargo and mail,"204,716,36","226,839,70","195,881,47"
+3,Garuda Indonesia,Operating revenue,Excess baggage,"10,081,11","10,172,64","9,810,31"
+4,Garuda Indonesia,Operating costs,Operating costs,"3,746,830,17","4,294,599,04","3,731,785,48"
+5,Garuda Indonesia,Operating costs,Fuel,"1,420,139,20","1,560,265,64","1,049,819,78"
+6,Garuda Indonesia,Operating costs,Aircraft rental and charter,"592,251,66","765,872,79","904,774,77"
+7,Garuda Indonesia,Operating costs,"Ticketing, sales and promotion","335,842,13","354,822,39","309,608,28"
+8,Garuda Indonesia,Operating costs,Passenger services,"283,416,38","302,908,13","270,750,08"
+9,Garuda Indonesia,Operating costs,User charges and station,"297,019,33","339,756,09","301,880,82"
+10,Garuda Indonesia,Operating costs,Maintenance and overhaul,"287,126,40","419,536,77","376,500,96"
+11,Garuda Indonesia,Operating profit (loss),Operating profit (loss),"62,942,06","-395,228,12","168,745,44"
+12,Garuda Indonesia,Net profit (loss),Net profit (loss),"10,786,15","-368,911,27","77,974,16"
+13,Garuda Indonesia,Total assets,Total assets,"2,992,713,20","3,113,079,31","3,310,010,98"
+14,Garuda Indonesia,Cash and cash equivalents,Cash and cash equivalents,"480,429,05","434,327,49","519,972,65"
+15,Garuda Indonesia,Total liabilities,Total liabilities,"1,866,933,14","2,233,611,72","2,359,287,80"
+0,Gol,Revenue,Revenue,"8,956.20","10,066.20","9,778.00"
+1,Gol,Revenue,Passenger,"8,122.20","9,045.80","8,583.40"
+2,Gol,Revenue,Ancillary,834.1,"1,374.10",
+3,Gol,Operating costs,Operating costs,"8,690.20","9,558.80","9,957.80"
+4,Gol,Operating costs,Aircraft fuel,"3,610.80","3,842.30","3,301.40"
+5,Gol,Operating costs,"Salaries, wages and benefits","1,333.50","1,374.10","1,580.50"
+6,Gol,Operating costs,Aircraft rent,699.2,844.6,"1,100.10"
+7,Gol,Operating costs,Landing fees,566.5,613.1,681.4
+8,Gol,Operating costs,Aircraft and traffic servicing,599.5,747.4,"1,019.80"
+9,Gol,Operating costs,Depreciation,561,463.3,419.7
+10,Gol,Operating costs,Sales and marketing,516.1,667.4,617.4
+11,Gol,Operating costs,"Maintenance, materials and repairs",460.8,511,603.9
+12,Gol,Operating profit (loss),Operating profit (loss),266,504.9,-183.8
+13,Gol,Net profit (loss),Net profit (loss),-724.6,"-1,117.30","-4,291.20"
+14,Gol,Total assets,Total assets,"10,638.40","9,976.60","10,368.40"
+15,Gol,Cash and cash equivalents,Cash and cash equivalents,"1,635.60","1,898.80","1,072.30"
+16,Gol,Total liabilities,Total liabilities,"9,419.90","10,309.60","14,583.00"
+0,Azul,Revenue,Revenue,871.1,"1,721.20","2,717.40"
+1,Azul,Revenue,Passenger,786.7,"1,558.30","2,454.70"
+2,Azul,Cost of services,Cost of services,748.1,"1,427.30","2,317.90"
+3,Azul,Cost of services,Aviation fuel,341,684.4,"1,073.30"
+4,Azul,Cost of services,Salaries and benefits,190,345.5,395
+5,Azul,Cost of services,Aircraft leasing and others,68.7,109.1,218.6
+6,Azul,Cost of services,Airport charges,38.7,78,156.5
+7,Azul,Cost of services,Provision of air traffic services,54.3,96.1,130.1
+8,Azul,Cost of services,Equipment maintenance and repair,33.2,60.9,126.8
+9,Azul,Cost of services,Depreciation and amortisation,51.3,87.5,97.2
+10,Azul,Operating profit (loss),Operating profit (loss),-50.8,25.1,8.6
+11,Azul,Net profit (loss),Net profit (loss),-97.6,-105.5,-170.8
+12,Azul,Total assets,Total assets,"1,224.00","1,964.00","4,751.80"
+13,Azul,Cash and cash equivalents,Cash and cash equivalents,96.9,131.7,271.1
+14,Azul,Total liabilities,Total liabilities,"1,044.10","1,905.60","4,400.80"
+0,IndiGo,Total operating revenue,Total operating revenue,"38,254.10","55,524.00","94,580.00"
+1,IndiGo,Total operating revenue,Passenger,"35,189.40","51,630.10",
+2,IndiGo,Total operating revenue,Excess baggage,229.9,318.4,
+3,IndiGo,Total operating revenue,Freight,"2,451.30","2,903.70",
+4,IndiGo,Total operating costs,Total operating costs,"32,229.20","56,400.80","84,650.00"
+5,IndiGo,Total operating costs,Flight operations,"21,693.00","41,255.80",
+6,IndiGo,Total operating costs,"Ticketing, sales and promotion","3,178.70","4,264.50",
+7,IndiGo,Total operating costs,User charges and station expenses,"2,725.50","4,079.30",
+8,IndiGo,Total operating costs,Maintenance and overhaul,659.7,"1,193.80",
+9,IndiGo,Total operating costs,Depreciation and amortisation,628.7,665.2,
+10,IndiGo,Total operating costs,Passenger services,140.3,231.6,
+11,IndiGo,Total operating costs,General and administrative,812,"1,235.60",
+12,IndiGo,Operating profit (loss),Operating profit (loss),"6,024.90",-876.8,
+13,IndiGo,Net profit (loss),Net profit (loss),"6,503.30","1,278.80","7,870.00"
+0,Etihad Airways,Revenue,Revenue,"4,800.00","6,000.00","7,600.00"
+1,Etihad Airways,Revenue,Partner revenue,629,820,"1,129.00"
+2,Etihad Airways,Revenue,Cargo,716,928,"1,106.00"
+3,Etihad Airways,Operating profit (loss),Operating profit (loss),170,194,257
+4,Etihad Airways,Net profit (loss),Net profit (loss),42,48,73
+0,KLM Royal Dutch Airlines,Operating revenue,Operating revenue,"25,520.00","24,912.00","26,059.00"
+1,KLM Royal Dutch Airlines,Operating revenue,Passenger,"20,112.00","19,570.00","20,541.00"
+2,KLM Royal Dutch Airlines,Operating revenue,Cargo,"2,816.00","2,681.00","2,425.00"
+3,KLM Royal Dutch Airlines,Operating costs,Operating costs,"25,400.00","25,567.00","26,359.00"
+4,KLM Royal Dutch Airlines,Operating costs,Salaries and related costs,"7,482.00","7,636.00","7,852.00"
+5,KLM Royal Dutch Airlines,Operating costs,Aircraft fuel,"6,897.00","6,629.00","6,183.00"
+6,KLM Royal Dutch Airlines,Operating costs,"Amortisation, depreciation and provisions","1,725.00","1,718.00","1,631.00"
+7,KLM Royal Dutch Airlines,Operating costs,Landing fees and en route charges,"1,839.00","1,840.00","1,947.00"
+8,KLM Royal Dutch Airlines,Operating costs,Handling charges and other operating costs,"1,405.00","1,476.00","1,536.00"
+9,KLM Royal Dutch Airlines,Operating costs,Aircraft maintenance,"1,303.00","1,729.00","2,372.00"
+10,KLM Royal Dutch Airlines,Operating costs,Aircraft operating lease,913,873,"1,027.00"
+11,KLM Royal Dutch Airlines,Operating costs,Commercial and distribution,852,870,896
+12,KLM Royal Dutch Airlines,Operating costs,Catering,589,591,655
+13,KLM Royal Dutch Airlines,Operating costs,Chartering costs,455,438,430
+14,KLM Royal Dutch Airlines,Operating profit (loss),Operating profit (loss),130,-129,816
+15,KLM Royal Dutch Airlines,Net profit (loss),Net profit (loss),"-1,818.00",-216,127
+16,KLM Royal Dutch Airlines,Total assets,Total assets,"25,423.00","23,241.00","23,335.00"
+17,KLM Royal Dutch Airlines,Cash and cash equivalents,Cash and cash equivalents,"3,684.00","3,159.00","3,104.00"
+18,KLM Royal Dutch Airlines,Total liabilities,Total liabilities,"23,133.00","23,894.00","23,062.00"
+0,Jet Airways,Operating revenue,Operating revenue,"168,526.00","173,019.00","195,734.00"
+1,Jet Airways,Total costs,Total costs,"179,256.00","198,764.00","208,240.00"
+2,Jet Airways,Total costs,Aircraft fuel,"69,920.00","71,754.00","66,863.00"
+3,Jet Airways,Total costs,Employees remuneration and benefits,"15,442.00","18,996.00","21,585.00"
+4,Jet Airways,Total costs,Selling and distribution,"13,586.00","14,483.00","20,409.00"
+5,Jet Airways,Total costs,Aircraft lease rentals,"12,321.00","16,761.00","19,589.00"
+6,Jet Airways,Total costs,Depreciation,"9,266.00","8,757.00","7,625.00"
+7,Jet Airways,Profit (loss) before tax,Profit (loss) before tax,"-4,855.00","-36,680.00","-18,137.00"
+8,Jet Airways,Net profit (loss),Net profit (loss),"-4,855.00","-36,679.00","-18,137.00"
+9,Jet Airways,Total assets,Total assets,"187,546.00","183,691.00","188,492.20"
+10,Jet Airways,Cash and cash equivalents,Cash and cash equivalents,"8,370.70","11,454.10","20,686.00"
+11,Jet Airways,Total liabilities,Total liabilities,"190,971.00","205,968.90","229,395.00"
+0,Air India,Total revenue,Total revenue,"147,138.10",,
+1,Air India,Total revenue,Operating revenue,"146,753.00","160,278.40","191,703.80"
+2,Air India,Total expenses,Total expenses,"234,594.80",,
+3,Air India,Total expenses,Aircraft fuel,"85,116.70",,
+4,Air India,Total expenses,Employee benefits,"35,666.50",,
+5,Air India,Total expenses,Finance costs,"36,454.90",,
+6,Air India,Total expenses,Depreciation and amortization expenses,"16,003.90",,
+7,Air India,Profit (loss) before exceptional and extraordinary items and tax,Profit (loss) before exceptional and extraordinary items and tax,"-87,456.70",,
+8,Air India,Net profit (loss),Net profit (loss),"-75,597.40","-54,901.60","-53,888.20"
+9,Air India,Total assets,Total assets,"426,716.10",,
+10,Air India,Cash and bank balances,Cash and bank balances,"4,310.10",,
+11,Air India,Total liabilities,Total liabilities,"262,284.40",,
+0,Alitalia,Revenue,Revenue,"3,225.00","3,478.00","3,594.00"
+1,Alitalia,Operating profit (loss),Operating profit (loss),-107,-6,-119.1
+2,Alitalia,Net profit (loss),Net profit (loss),-168,-69,-280
+0,airberlin,Operating revenue,Operating revenue,"4,146.80","4,160.20","4,081.80"
+1,airberlin,Operating revenue,Flight revenue,"3,815.50","3,808.20","3,709.40"
+2,airberlin,Operating revenue,Ground and other services,305.8,323.5,343.9
+3,airberlin,Operating revenue,Duty-free/in-flight sales,25.5,28.4,28.4
+4,airberlin,Operating costs,Operating costs,"4,438.40","4,465.60","4,439.50"
+5,airberlin,Operating costs,Fuel for aircraft,"1,067.20","1,028.60",929.7
+6,airberlin,Operating costs,Airport and handling charges,835.6,837.8,838.1
+7,airberlin,Operating costs,Operating leases for aircraft and equipment,579.3,548,619.8
+8,airberlin,Operating costs,Personnel expenses,488.2,524.5,589.3
+9,airberlin,Operating costs,Depreciation and amortisation,85.2,97,46
+10,airberlin,Operating costs,Navigation charges,257.8,265.2,260.4
+11,airberlin,Operating costs,Repairs and maintenance,242.2,233.1,268.6
+12,airberlin,Operating profit (loss),Operating profit (loss),-231.9,-293.8,-307
+13,airberlin,Net profit (loss),Net profit (loss),-315.5,-376.7,-446.6
+14,airberlin,Total assets,Total assets,"1,885.50","1,863.60","1,418.40"
+15,airberlin,Cash and cash equivalents,Cash and cash equivalents,223.1,259.2,165.2
+16,airberlin,Total liabilities,Total liabilities,"2,071.50","2,279.10","2,217.80"
+0,China Airlines,Operating revenue,Operating revenue,"132,240.50","132,135.50","131,752.70"
+1,China Airlines,Operating revenue,Passenger,"80,825.40","86,167.00","87,573.90"
+2,China Airlines,Operating revenue,Cargo,"46,388.50","40,808.90","38,983.70"
+3,China Airlines,Operating costs,Operating costs,"133,805.30","132,912.00","133,525.00"
+4,China Airlines,Operating costs,Flying operations,"83,462.00","85,692.00","88,182.50"
+5,China Airlines,Operating costs,Terminal and landing fees,"18,894.40","19,328.70","19,207.40"
+6,China Airlines,Operating costs,Passenger services,"7,904.40","8,227.10","8,499.50"
+7,China Airlines,Operating costs,Aircraft maintenance,"11,882.50","7,951.90","6,264.50"
+8,China Airlines,Operating profit (loss),Operating profit (loss),"-1,564.90",-776.6,"-1,772.00"
+9,China Airlines,Net profit (loss),Net profit (loss),"-1,954.30",-41.9,"-1,274.00"
+10,China Airlines,Total assets,Total assets,"202,689.60","209,818.70","211,057.00"
+11,China Airlines,Cash and cash equivalents,Cash and cash equivalents,"8,947.40","9,011.40","14,970.80"
+12,China Airlines,Total liabilities,Total liabilities,"155,630.50","158,358,902.00","160,250.50"
+0,Malaysia Airlines,Operating revenue,Operating revenue,"13,653.90","13,286.60","14,548.20"
+1,Malaysia Airlines,Operating revenue,Passenger and excess baggage,"8,397.70","10,311.00","11,260.00"
+2,Malaysia Airlines,Operating revenue,Cargo and mail,"1,234.60","1,641.00","1,614.00"
+3,Malaysia Airlines,Operating costs,Operating costs,"16,197.20","13,569.10","14,867.00"
+4,Malaysia Airlines,Operating costs,Staff costs,"2,325.10","2,515.60","2,327.00"
+5,Malaysia Airlines,Operating costs,Fuel and oil,"5,845.60","5,327.70","5,870.00"
+6,Malaysia Airlines,Operating costs,"Handling, enroute charges, catering and other related costs","1,416.90","1,135.00","1,461.00"
+7,Malaysia Airlines,Operating costs,Aircraft maintenance and overhaul,"1,100.70",975.9,"1,145.00"
+8,Malaysia Airlines,Operating costs,Depreciation,423.6,548,817
+9,Malaysia Airlines,Operating profit (loss),Operating profit (loss),"-2,295.70",-361,-562.5
+10,Malaysia Airlines,Net profit (loss),Net profit (loss),"-2,521.30",-432.6,"-1,173.70"
+11,Malaysia Airlines,Total assets,Total assets,"12,499.50","17,412.20","21,855.30"
+12,Malaysia Airlines,Cash and cash equivalents,Cash and cash equivalents,958.8,"2,148.50","3,870.60"
+13,Malaysia Airlines,Total liabilities,Total liabilities,"11,443.30","15,274.20","17,803.20"
+0,HOP!,Operating revenue,Operating revenue,"25,520.00","24,912.00","26,059.00"
+1,HOP!,Operating revenue,Passenger,"20,112.00","19,570.00","20,541.00"
+2,HOP!,Operating revenue,Cargo,"2,816.00","2,681.00","2,425.00"
+3,HOP!,Operating costs,Operating costs,"25,400.00","25,567.00","26,359.00"
+4,HOP!,Operating costs,Salaries and related costs,"7,482.00","7,636.00","7,852.00"
+5,HOP!,Operating costs,Aircraft fuel,"6,897.00","6,629.00","6,183.00"
+6,HOP!,Operating costs,"Amortisation, depreciation and provisions","1,725.00","1,718.00","1,631.00"
+7,HOP!,Operating costs,Landing fees and en route charges,"1,839.00","1,840.00","1,947.00"
+8,HOP!,Operating costs,Handling charges and other operating costs,"1,405.00","1,476.00","1,536.00"
+9,HOP!,Operating costs,Aircraft maintenance,"1,303.00","1,729.00","2,372.00"
+10,HOP!,Operating costs,Aircraft operating lease,913,873,"1,027.00"
+11,HOP!,Operating costs,Commercial and distribution,852,870,896
+12,HOP!,Operating costs,Catering,589,591,655
+13,HOP!,Operating costs,Chartering costs,455,438,430
+14,HOP!,Operating profit (loss),Operating profit (loss),130,-129,816
+15,HOP!,Net profit (loss),Net profit (loss),"-1,818.00",-216,127
+16,HOP!,Total assets,Total assets,"25,423.00","23,241.00","23,335.00"
+17,HOP!,Cash and cash equivalents,Cash and cash equivalents,"3,684.00","3,159.00","3,104.00"
+18,HOP!,Total liabilities,Total liabilities,"23,133.00","23,894.00","23,062.00"
+0,Avianca,Total operating revenue,Total operating revenue,"4,609.60","4,703.60","4,361.30"
+1,Avianca,Total operating revenue,Passenger,"3,862.40","3,862.70","3,458.00"
+2,Avianca,Total operating revenue,Cargo and other,747.2,840.9,903.3
+3,Avianca,Total operating costs,Total operating costs,"4,224.70","4,424.10","4,142.50"
+4,Avianca,Total operating costs,Fuel,"1,325.80","1,345.80","1,006.80"
+5,Avianca,Total operating costs,"Salaries, wages and benefits",675,725.8,666.1
+6,Avianca,Total operating costs,Sales and marketing,584.5,605.7,612.8
+7,Avianca,Total operating costs,Ground operations,343.8,397.6,412.4
+8,Avianca,Total operating costs,Aircraft rentals,273.6,299.2,317.5
+9,Avianca,Total operating costs,Maintenance and repairs,188.7,268.9,309.7
+10,Avianca,Total operating costs,Depreciation and amortisation,169.6,198.7,230.7
+11,Avianca,Total operating costs,Air traffic,180.1,206.2,203
+12,Avianca,Total operating costs,"General, administrative and other",257.3,165.2,176.2
+13,Avianca,Total operating costs,Passenger services,143.5,154.5,149.3
+14,Avianca,Total operating costs,Flight operations,82.9,56.7,58.1
+15,Avianca,Operating profit (loss),Operating profit (loss),384.9,279.5,218.8
+16,Avianca,Net profit (loss),Net profit (loss),248.8,128.5,-139.5
+17,Avianca,Total assets,Total assets,"5,179.00","6,175.50","6,588.30"
+18,Avianca,Cash and cash equivalents,Cash and cash equivalents,735.6,640.9,479.4
+19,Avianca,Total liabilities,Total liabilities,"3,964.30","4,958.80","5,215.70"
+0,Copa Airlines,Total operating revenue,Total operating revenue,"2,608.30","2,705.10","2,250.10"
+1,Copa Airlines,Total operating revenue,Passenger,"2,519.70","2,619.90","2,166.70"
+2,Copa Airlines,Total operating revenue,"Cargo, mail and other",88.7,85.2,83.3
+3,Copa Airlines,Total operating costs,Total operating costs,"2,090.80","2,184.00","1,984.00"
+4,Copa Airlines,Total operating costs,Aircraft fuel,783.1,820.7,602.8
+5,Copa Airlines,Total operating costs,Salaries and benefits,276.2,299.2,289.5
+6,Copa Airlines,Total operating costs,Passenger services,250.6,268.8,258.3
+7,Copa Airlines,Total operating costs,Flight operations,121.8,132.2,130.9
+8,Copa Airlines,Total operating costs,Depreciation,137.4,115.1,134.9
+9,Copa Airlines,Total operating costs,"Maintenance, material and repairs",93,101.4,111.2
+10,Copa Airlines,Total operating costs,Commissions,103.7,99.1,88.6
+11,Copa Airlines,Total operating costs,Reservations and sales,99.8,93.8,88.1
+12,Copa Airlines,Total operating costs,Aircraft rentals,90.2,112.1,122.2
+13,Copa Airlines,Total operating costs,Landing fees and other rentals,50.4,53.7,56.7
+14,Copa Airlines,Operating profit (loss),Operating profit (loss),517.6,521.1,266.1
+15,Copa Airlines,Net profit (loss),Net profit (loss),427.5,361.7,185.4
+16,Copa Airlines,Total assets,Total assets,"3,952.80","4,090.90","4,166.10"
+17,Copa Airlines,Cash and cash equivalents,Cash and cash equivalents,139.1,221.4,202.7
+18,Copa Airlines,Total liabilities,Total liabilities,"2,050.90","2,015.80","2,163.90"
+0,Iberia,Operating revenue,Operating revenue,"18,675.00","20,170.00","22,858.00"
+1,Iberia,Operating revenue,Passenger,"16,264.00","17,825.00","20,350.00"
+2,Iberia,Operating revenue,Cargo,"1,073.00",992,"1,024.00"
+3,Iberia,Operating costs,Operating costs,"17,905.00","18,780.00","20,523.00"
+4,Iberia,Operating costs,Employee costs,"4,123.00","4,325.00","4,905.00"
+5,Iberia,Operating costs,Fuel and oil costs,"5,951.00","5,987.00","6,082.00"
+6,Iberia,Operating costs,"Handling, catering and other operating costs","1,932.00","2,063.00","2,371.00"
+7,Iberia,Operating costs,Landing fees and en-route charges,"1,422.00","1,555.00","1,882.00"
+8,Iberia,Operating costs,Engineering and other aircraft costs,"1,237.00","1,276.00","1,395.00"
+9,Iberia,Operating costs,"Depreciation, amortisation and impairment","1,006.00","1,196.00","1,307.00"
+10,Iberia,Operating costs,"Property, IT and other costs",922,927,965
+11,Iberia,Operating costs,Selling costs,785,859,912
+12,Iberia,Operating costs,Aircraft operating lease,482,551,659
+13,Iberia,Operating profit (loss),Operating profit (loss),770,"1,390.00","2,335.00"
+14,Iberia,Net profit (loss),Net profit (loss),147,"1,003.00","1,539.00"
+15,Iberia,Total assets,Total assets,"20,777.00","23,652.00","28,229.00"
+16,Iberia,Cash and cash equivalents,Cash and cash equivalents,"1,541.00","1,528.00","2,909.00"
+17,Iberia,Total liabilities,Total liabilities,"16,561.00","19,859.00","22,695.00"
+0,Allegiant Air,Operating revenue,Operating revenue,996.2,"1,137.00","1,262.20"
+1,Allegiant Air,Operating revenue,Scheduled service,651.3,732,735.6
+2,Allegiant Air,Operating revenue,Ancillary,324.9,368.3,474.5
+3,Allegiant Air,Operating revenue,Fixed fee contract,17.5,17.4,19.7
+4,Allegiant Air,Operating costs,Operating costs,841.4,979.7,890.5
+5,Allegiant Air,Operating costs,Aircraft fuel,385.6,388.2,278.4
+6,Allegiant Air,Operating costs,Salary and benefits,158.6,193.3,229.8
+7,Allegiant Air,Operating costs,Station operations,78.2,84.7,102.3
+8,Allegiant Air,Operating costs,Maintenance and repairs,72.8,86.8,92.6
+9,Allegiant Air,Operating costs,Depreciation and amortisation,69.3,83.4,98.1
+10,Allegiant Air,Operating costs,Sales and marketing,21.7,28.5,21.3
+11,Allegiant Air,Operating costs,Aircraft lease rentals,9.2,15.9,2.3
+12,Allegiant Air,Operating profit (loss),Operating profit (loss),154.7,157.3,371.7
+13,Allegiant Air,Net profit (loss),Net profit (loss),92.3,86.7,220.3
+14,Allegiant Air,Total assets,Total assets,930.2,"1,239.40",
+15,Allegiant Air,Cash and cash equivalents,Cash and cash equivalents,97.7,89.6,
+16,Allegiant Air,Total liabilities,Total liabilities,552.9,945.3,
+0,Asiana Airlines,Total revenue,Total revenue,"5,463,294.70","5,552,700.00","5,204,308.60"
+1,Asiana Airlines,Total revenue,Passenger,"3,527,921.00","3,633,122.00",
+2,Asiana Airlines,Total revenue,Cargo,"1,337,440.00","1,305,986.00","1,144,100.00"
+3,Asiana Airlines,Operating costs,Operating costs,"5,524,883.80","5,510,450.30","5,194,952.40"
+4,Asiana Airlines,Operating costs,Fuel,"2,127,047.00","2,001,640.10","1,457,649.90"
+5,Asiana Airlines,Operating costs,Labour,"615,663.10","647,138.00","658,184.20"
+6,Asiana Airlines,Operating costs,Lease expenses,"464,414.90","465,361.10","622,139.80"
+7,Asiana Airlines,Operating costs,Depreciation and amortisation,"282,348.30","344,268.80","382,787.80"
+8,Asiana Airlines,Operating costs,Maintenance,"274,287.10","282,214.00","351,395.50"
+9,Asiana Airlines,Operating costs,Airport charges,"400,440.90","395,875.90","411,435.70"
+10,Asiana Airlines,Operating costs,Commission expense,"114,910.30","140,237.00","145,219.70"
+11,Asiana Airlines,Operating costs,Promotion and advertising expenses,"31,319.10","32,938.00","35,188.80"
+12,Asiana Airlines,Operating profit (loss),Operating profit (loss),"-61,589.00","42,228.10","9,356.20"
+13,Asiana Airlines,Net profit (loss),Net profit (loss),"-143,099.00","-95,234.50","-151,931.90"
+14,Asiana Airlines,Total assets,Total assets,"6,054,231.00","6,480,317.70","6,924,051.10"
+15,Asiana Airlines,Cash and cash equivalents,Cash and cash equivalents,"245,511.10","146,168.20","43,370.20"
+16,Asiana Airlines,Total liabilities,Total liabilities,"5,238,836.40","5,685,588.00","6,289,678.60"
+0,AirAsia,Operating revenue,Operating revenue,"5,111.80","5,415.70","6,299.10"
+1,AirAsia,Operating revenue,Passenger seat sales,"2,998.70","2,989.20",
+2,AirAsia,Operating revenue,Aircraft operating lease income,666.1,790.5,
+3,AirAsia,Operating revenue,Baggage fees,442.7,456.1,
+4,AirAsia,Operating revenue,Surcharges and fees,593.8,672.6,
+5,AirAsia,Operating costs,Operating costs,"4,430.20","4,776.40",
+6,AirAsia,Operating costs,Aircraft fuel expenses,"2,212.20","2,254.20","2,000.70"
+7,AirAsia,Operating costs,Staff costs,610.9,667.3,759
+8,AirAsia,Operating costs,"Depreciation of property, plant and equipment",597.3,719.5,703.2
+9,AirAsia,Operating costs,User charges and other related expenses,490,545.3,685
+10,AirAsia,Operating costs,Maintenance and overhaul,138.6,158,196.9
+11,AirAsia,Operating costs,Aircraft operating lease expenses,189.4,198.3,330.8
+12,AirAsia,Operating profit (loss),Operating profit (loss),918.2,853.6,"1,583.30"
+13,AirAsia,Net profit (loss),Net profit (loss),362.1,82.8,541
+14,AirAsia,Total assets,Total assets,"17,856.10","20,442.80","21,278.90"
+15,AirAsia,"Deposits, cash and bank balances","Deposits, cash and bank balances","1,380.40","1,337.80","2,431.10"
+16,AirAsia,Total liabilities,Total liabilities,"12,855.20","15,885.80","16,831.50"
+0,EVA Air,Revenue,Revenue,"120,158.50","124,164.00","133,090.00"
+1,EVA Air,Revenue,Passenger,"65,618.00","71,100.00","77,959.00"
+2,EVA Air,Revenue,Cargo,"34,351.00","32,033.00","31,258.00"
+3,EVA Air,Total costs,Total costs,"117,749.30","120,694.10","130,455.10"
+4,EVA Air,Operating profit (loss),Operating profit (loss),"2,409.20","3,470.30","2,634.90"
+5,EVA Air,Net profit (loss),Net profit (loss),655.2,747.5,"-1,306.70"
+6,EVA Air,Total assets,Total assets,"155,524.30","152,722.90","167,560.20"
+7,EVA Air,Cash and cash equivalents,Cash and cash equivalents,"22,083.30","24,898.20","27,145.00"
+8,EVA Air,Total liabilities,Total liabilities,"116,139.50","112,465.60","127,883.20"
+0,Ethiopian Airlines,Revenue,Revenue,"33,815.00","38,498.00","46,576.00"
+1,Ethiopian Airlines,Revenue,Passenger,"24,523.40","31,299.00","37,904.00"
+2,Ethiopian Airlines,Revenue,Freight and mail,"4,540.40","6,025.00","6,943.00"
+3,Ethiopian Airlines,Revenue,Charter,"2,099.10","1,477.80","1,927.20"
+4,Ethiopian Airlines,Revenue,Excess baggage,"1,361.50","1,377.30","1,430.00"
+5,Ethiopian Airlines,Total costs,Total costs,"32,475.00","35,724.00","42,869.00"
+6,Ethiopian Airlines,Total costs,Aircraft fuel and oil,"15,818.20","16,648.10","19,429.00"
+7,Ethiopian Airlines,Total costs,Salaries and wages,"1,563.70","1,955.20","2,568.60"
+8,Ethiopian Airlines,Total costs,Rentals,"2,461.40","2,314.40","2,596.30"
+9,Ethiopian Airlines,Total costs,Overflying and navigation,"1,781.10","2,033.50","2,544.00"
+10,Ethiopian Airlines,Total costs,Depreciation of aircraft and engines,"1,293.40","1,863.40","2,439.80"
+11,Ethiopian Airlines,Total costs,Foreign overhauls,"1,117.70","1,476.40","1,253.10"
+12,Ethiopian Airlines,Total costs,Handling,"1,395.90","1,467.50","1,820.60"
+13,Ethiopian Airlines,Total costs,Commission and incentives,"1,353.10","1,410.80","1,575.10"
+14,Ethiopian Airlines,Total costs,Landing and parking,744.6,923.9,"1,127.50"
+15,Ethiopian Airlines,Operating profit (loss),Operating profit (loss),"1,340.00","2,774.00","3,707.00"
+16,Ethiopian Airlines,Net profit (loss),Net profit (loss),"1,025.00","2,054.00","3,147.00"
+17,Ethiopian Airlines,Total assets,Total assets,"36,714.00","53,282.30","67,583.50"
+18,Ethiopian Airlines,Cash and bank balances,Cash and bank balances,"2,612.10","3,302.20","5,692.00"
+19,Ethiopian Airlines,Total liabilities,Total liabilities,"26,586.80","41,029.80","52,289.30"
+20,Ethiopian Airlines,Total liabilities,Passengers expense,,"1,453.00","2,130.10"
+21,Ethiopian Airlines,Total liabilities,Maintenance of leased aircraft,,911,"1,159.20"
+0,Flybe,Total revenue,Total revenue,614.3,620.5,574.1
+1,Flybe,Operating expenses,Operating expenses,644.9,630.6,587.6
+2,Flybe,Operating expenses,Staff costs,129.6,107.6,89.1
+3,Flybe,Operating expenses,Fuel,122.6,120,105.5
+4,Flybe,Operating expenses,Net airport and em route charges,117,122.1,108.7
+5,Flybe,Operating expenses,Ground operations,70.2,73.7,69.1
+6,Flybe,Operating expenses,Maintenance,37.2,41.9,37.2
+7,Flybe,Operating expenses,Depreciation and amortisation,12,14.3,13.8
+8,Flybe,Operating expenses,Aircraft rental charges,78.1,83.6,80.6
+9,Flybe,Operating expenses,Marketing and distribution costs,25.1,23.3,27.4
+10,Flybe,Operating profit (loss),Operating profit (loss),-31.8,1.3,-12.7
+11,Flybe,Net profit (loss),Net profit (loss),-42.2,8,-35.7
+12,Flybe,Total assets,Total assets,405.8,548,560.3
+13,Flybe,Cash and cash equivalents,Cash and cash equivalents,23.3,177.9,177.9
+14,Flybe,Total liabilities,Total liabilities,357.7,353.9,420.3
+0,Aeromexico Connect,Revenue,Revenue,"39,850.00","42,921.00","46,946.00"
+1,Aeromexico Connect,Revenue,Passenger,"35,509.00","38,141.00","41,744.00"
+2,Aeromexico Connect,Revenue,Cargo,"2,052.00","2,470.00","2,880.00"
+3,Aeromexico Connect,Revenue,Excess baggage,374,428,516
+4,Aeromexico Connect,Total operating costs,Total operating costs,"37,447.00","41,150.00","43,916.00"
+5,Aeromexico Connect,Total operating costs,Aircraft fuel,"12,906.00","13,706.00","10,753.00"
+6,Aeromexico Connect,Total operating costs,Salaries and related costs,"8,436.00","8,962.00","9,815.00"
+7,Aeromexico Connect,Total operating costs,"Aircraft, communication and traffic services","4,733.00","5,260.00","6,333.00"
+8,Aeromexico Connect,Total operating costs,Maintenance,"1,971.00","2,297.00","3,298.00"
+9,Aeromexico Connect,Total operating costs,Passenger services,755,893,"1,112.00"
+10,Aeromexico Connect,Total operating costs,Travel agent commissions,"1,158.00","1,325.00","1,289.00"
+11,Aeromexico Connect,Total operating costs,Aircraft leasing,"3,614.00","4,499.00","5,763.00"
+12,Aeromexico Connect,Total operating costs,Depreciation,"1,555.00","1,696.00","2,512.00"
+13,Aeromexico Connect,Operating profit (loss),Operating profit (loss),"2,403.00","1,771.00","3,031.00"
+14,Aeromexico Connect,Net profit (loss),Net profit (loss),"1,080.00",783,"1,156.00"
+15,Aeromexico Connect,Total assets,Total assets,"32,296.00","38,205.00","49,899.00"
+16,Aeromexico Connect,Cash and cash equivalents,Cash and cash equivalents,"3,154.00","3,156.00","5,071.00"
+17,Aeromexico Connect,Total liabilities,Total liabilities,"24,071.00","28,977.00","39,125.00"
+0,Interjet,Total operating revenue,Total operating revenue,"10,347.20","11,861.00","13,143.50"
+1,Interjet,Total operating revenue,Passenger,"9,795.80","11,094.30","11,946.90"
+2,Interjet,Total operating revenue,Ancillary,342.1,403.6,410.5
+3,Interjet,Total operating revenue,Cargo,50.8,27.4,215.5
+4,Interjet,Total operating revenue,Others,158.4,335.6,570.5
+5,Interjet,Total operating costs,Total operating costs,"9,311.50","11,040.50","12,805.20"
+6,Interjet,Total operating costs,Jet fuel,"3,645.10","4,062.80","4,374.50"
+7,Interjet,Total operating costs,Maintenance,"1,072.00","1,386.60","1,646.60"
+8,Interjet,Total operating costs,"Transit services, traffic and communication","1,115.20","1,343.10","1,589.50"
+9,Interjet,Total operating costs,Labour,491.2,717.9,901.7
+10,Interjet,Total operating costs,Insurance and passenger service,127.5,126.1,127.8
+11,Interjet,Total operating costs,Advertising and sales,854.8,873.1,"1,143.40"
+12,Interjet,Total operating costs,Administrative and other,638.9,718.2,904.3
+13,Interjet,Total operating costs,Rental,"1,084.10","1,390.60","1,501.60"
+14,Interjet,Total operating costs,Depreciation and amortisation,282.7,442.9,615.8
+15,Interjet,Operating profit (loss),Operating profit (loss),"1,035.70",820.5,338.3
+16,Interjet,Net profit (loss),Net profit (loss),500.4,487.8,-446.8
+17,Interjet,Total assets,Total assets,"13,991.70","16,755.60","23,029.20"
+18,Interjet,Cash and cash equivalents,Cash and cash equivalents,"1,484.00","2,622.50","1,989.20"
+19,Interjet,Total liabilities,Total liabilities,"11,143.10","13,585.90","20,234.00"
+0,Aeromexico,Revenue,Revenue,"39,850.00","42,921.00","46,946.00"
+1,Aeromexico,Revenue,Passenger,"35,509.00","38,141.00","41,744.00"
+2,Aeromexico,Revenue,Cargo,"2,052.00","2,470.00","2,880.00"
+3,Aeromexico,Revenue,Excess baggage,374,428,516
+4,Aeromexico,Total operating costs,Total operating costs,"37,447.00","41,150.00","43,916.00"
+5,Aeromexico,Total operating costs,Aircraft fuel,"12,906.00","13,706.00","10,753.00"
+6,Aeromexico,Total operating costs,Salaries and related costs,"8,436.00","8,962.00","9,815.00"
+7,Aeromexico,Total operating costs,"Aircraft, communication and traffic services","4,733.00","5,260.00","6,333.00"
+8,Aeromexico,Total operating costs,Maintenance,"1,971.00","2,297.00","3,298.00"
+9,Aeromexico,Total operating costs,Passenger services,755,893,"1,112.00"
+10,Aeromexico,Total operating costs,Travel agent commissions,"1,158.00","1,325.00","1,289.00"
+11,Aeromexico,Total operating costs,Aircraft leasing,"3,614.00","4,499.00","5,763.00"
+12,Aeromexico,Total operating costs,Depreciation,"1,555.00","1,696.00","2,512.00"
+13,Aeromexico,Operating profit (loss),Operating profit (loss),"2,403.00","1,771.00","3,031.00"
+14,Aeromexico,Net profit (loss),Net profit (loss),"1,080.00",783,"1,156.00"
+15,Aeromexico,Total assets,Total assets,"32,296.00","38,205.00","49,899.00"
+16,Aeromexico,Cash and cash equivalents,Cash and cash equivalents,"3,154.00","3,156.00","5,071.00"
+17,Aeromexico,Total liabilities,Total liabilities,"24,071.00","28,977.00","39,125.00"
+0,Philippine Airlines,Operating revenue,Operating revenue,"73,799.10","74,294.80","100,953.90"
+1,Philippine Airlines,Operating revenue,Passengers,"61,098.60","60,414.80","81,751.50"
+2,Philippine Airlines,Operating revenue,Cargo,"5,661.00","5,958.80","7,842.30"
+3,Philippine Airlines,Operating revenue,Others,"7,039.50","7,921.20","11,360.10"
+4,Philippine Airlines,Operating costs,Operating costs,"76,645.20","80,749.30","98,581.00"
+5,Philippine Airlines,Operating costs,Fuel and oil,"31,521.00","31,795.90","38,805.30"
+6,Philippine Airlines,Operating costs,Aircraft lease rentals,"5,046.30","6,180.90","10,893.90"
+7,Philippine Airlines,Operating costs,Crew and staff,"5,959.00","6,887.30","7,376.90"
+8,Philippine Airlines,Operating costs,Ground handling,"4,526.00","4,673.10","6,060.30"
+9,Philippine Airlines,Operating costs,"Depreciation, amortisation and obsolescence","5,821.70","6,375.70","4,215.10"
+10,Philippine Airlines,Operating costs,Landing and take-off,"2,638.10","2,813.00","3,442.50"
+11,Philippine Airlines,Operating costs,Passenger catering,"1,966.20","2,251.20","3,278.40"
+12,Philippine Airlines,Operating profit (loss),Operating profit (loss),"-2,846.10","-6,454.50","2,372.90"
+13,Philippine Airlines,Net profit (loss),Net profit (loss),"-3,535.50","-12,882.40",127.3
+14,Philippine Airlines,Total assets,Total assets,"100,882.20","114,008.90","109,222.00"
+15,Philippine Airlines,Cash and cash equivalents,Cash and cash equivalents,"3,486.80","12,782.40","10,794.20"
+16,Philippine Airlines,Total liabilities,Total liabilities,"89,468.20","111,116.90","105,537.50"
+0,Germanwings,Operating revenue,Operating revenue,"33,033.00","32,228.00","32,176.00"
+1,Germanwings,Operating revenue,Passenger airline group,"23,559.00","23,513.00","23,320.00"
+2,Germanwings,Operating revenue,Logistics,"2,793.00","2,519.00","2,535.00"
+3,Germanwings,Operating revenue,MRO,"4,341.00","4,584.00","4,729.00"
+4,Germanwings,Operating revenue,IT Services,629,676,683
+5,Germanwings,Operating revenue,Catering,"2,604.00","2,619.00","2,733.00"
+6,Germanwings,Operating costs,Operating costs,"31,411.00","31,379.00","31,409.00"
+7,Germanwings,Operating costs,Fuel,"7,392.00","7,058.00","6,751.00"
+8,Germanwings,Operating costs,Staff costs,"6,741.00","7,350.00","7,335.00"
+9,Germanwings,Operating costs,Fees and charges,"5,167.00","5,154.00","5,265.00"
+10,Germanwings,Operating costs,"Depreciation, amortisation and impairment","1,839.00","1,766.00","1,512.00"
+11,Germanwings,Operating profit (loss),Operating profit (loss),839,697,767
+12,Germanwings,Operating profit (loss),Passenger Airline Group,556,495,553
+13,Germanwings,Net profit (loss),Net profit (loss),"1,228.00",313,55
+14,Germanwings,Total assets,Total assets,"28,559.00","29,084.00","30,474.00"
+15,Germanwings,Cash and cash equivalents,Cash and cash equivalents,"1,436.00","1,550.00",953
+16,Germanwings,Total liabilities,Total liabilities,"23,720.00","22,976.00","26,443.00"
+0,Juneyao Airlines,Operating revenue,Operating revenue,"5,929.50","6,646.90","8,158.20"
+1,Juneyao Airlines,Operating costs,Operating costs,"5,629.80","6,251.70","7,025.00"
+2,Juneyao Airlines,Operating profit (loss),Operating profit (loss),299.7,395.2,"1,151.00"
+3,Juneyao Airlines,Net profit (loss),Net profit (loss),336.5,415,"1,028.10"
+4,Juneyao Airlines,Total assets,Total assets,"6,423.50","7,932.20","13,404.60"
+5,Juneyao Airlines,Cash and bank balances,Cash and bank balances,418.8,774.7,"1,286.80"
+6,Juneyao Airlines,Total liabilities,Total liabilities,"4,656.70","5,813.10","9,941.40"
+0,Aerolineas Argentinas,Revenue,Revenue,"1,371.00","1,613.00","2,037.00"
+1,Aerolineas Argentinas,Costs,Costs,"2,038.00","2,072.00","2,288.00"
+2,Aerolineas Argentinas,Costs,Fuel,620,591,642
+3,Aerolineas Argentinas,Costs,Labour,505,569,619
+4,Aerolineas Argentinas,Costs,Maintenance,148,130,149
+5,Aerolineas Argentinas,Costs,Commission,121,119,126
+6,Aerolineas Argentinas,EBITDA,EBITDA,-667,-459,-251
+7,Aerolineas Argentinas,Net profit (loss),Net profit (loss),-486,-441.7,-247.1
+0,Air New Zealand,Operating revenue,Operating revenue,"4,618.00","4,652.00","4,925.00"
+1,Air New Zealand,Operating revenue,Passenger,"3,765.00","3,851.00","4,113.00"
+2,Air New Zealand,Operating revenue,Cargo,301,287,258
+3,Air New Zealand,Operating costs,Operating costs,"3,720.00","3,649.00","3,764.00"
+4,Air New Zealand,Operating costs,Fuel,"1,204.00","1,121.00","1,089.00"
+5,Air New Zealand,Operating costs,Labour,"1,069.00","1,151.00","1,193.00"
+6,Air New Zealand,Operating costs,Aircraft operations,419,424,466
+7,Air New Zealand,Operating costs,Maintenance,303,285,320
+8,Air New Zealand,Operating costs,Depreciation and amortisation,411,436,402
+9,Air New Zealand,Profit (loss) before finance costs and taxation,Profit (loss) before finance costs and taxation,310,393,548
+10,Air New Zealand,Net profit (loss),Net profit (loss),182,263,327
+11,Air New Zealand,Total assets,Total assets,"5,612.00","5,850.00","6,775.00"
+12,Air New Zealand,Bank and short term deposits,Bank and short term deposits,"1,150.00","1,234.00","1,321.00"
+13,Air New Zealand,Total liabilities,Total liabilities,"3,796.00","3,978.00","4,810.00"
+14,Air New Zealand,Normalised profit (loss) before tax,Normalised profit (loss) before tax,,332,
+0,Avianca Brazil,Total operating revenue,Total operating revenue,"4,609.60","4,703.60","4,361.30"
+1,Avianca Brazil,Total operating revenue,Passenger,"3,862.40","3,862.70","3,458.00"
+2,Avianca Brazil,Total operating revenue,Cargo and other,747.2,840.9,903.3
+3,Avianca Brazil,Total operating costs,Total operating costs,"4,224.70","4,424.10","4,142.50"
+4,Avianca Brazil,Total operating costs,Fuel,"1,325.80","1,345.80","1,006.80"
+5,Avianca Brazil,Total operating costs,"Salaries, wages and benefits",675,725.8,666.1
+6,Avianca Brazil,Total operating costs,Sales and marketing,584.5,605.7,612.8
+7,Avianca Brazil,Total operating costs,Ground operations,343.8,397.6,412.4
+8,Avianca Brazil,Total operating costs,Aircraft rentals,273.6,299.2,317.5
+9,Avianca Brazil,Total operating costs,Maintenance and repairs,188.7,268.9,309.7
+10,Avianca Brazil,Total operating costs,Depreciation and amortisation,169.6,198.7,230.7
+11,Avianca Brazil,Total operating costs,Air traffic,180.1,206.2,203
+12,Avianca Brazil,Total operating costs,"General, administrative and other",257.3,165.2,176.2
+13,Avianca Brazil,Total operating costs,Passenger services,143.5,154.5,149.3
+14,Avianca Brazil,Total operating costs,Flight operations,82.9,56.7,58.1
+15,Avianca Brazil,Operating profit (loss),Operating profit (loss),384.9,279.5,218.8
+16,Avianca Brazil,Net profit (loss),Net profit (loss),248.8,128.5,-139.5
+17,Avianca Brazil,Total assets,Total assets,"5,179.00","6,175.50","6,588.30"
+18,Avianca Brazil,Cash and cash equivalents,Cash and cash equivalents,735.6,640.9,479.4
+19,Avianca Brazil,Total liabilities,Total liabilities,"3,964.30","4,958.80","5,215.70"
+0,EgyptAir,Total revenue,Total revenue,"9,678.40","10,975.00","12,876.60"
+1,EgyptAir,Total costs,Total costs,"11,883.00","14,044.10","14,761.90"
+2,EgyptAir,Total costs,"Raw material, requisites, fuel and spare parts","3,586.30","4,738.30","5,298.60"
+3,EgyptAir,Total costs,Wages,842.9,"2,506.80","1,001.40"
+4,EgyptAir,Profit (loss),Profit (loss),"-2,204.70","-3,069.10","-1,885.30"
+5,EgyptAir,Total assets,Total assets,"4,929.40","4,669.30","5,702.70"
+6,EgyptAir,Cash on hand and in banks,Cash on hand and in banks,"1,164.50",909.1,"1,137.90"
+0,Lufthansa CityLine,Operating revenue,Operating revenue,"33,033.00","32,228.00","32,176.00"
+1,Lufthansa CityLine,Operating revenue,Passenger airline group,"23,559.00","23,513.00","23,320.00"
+2,Lufthansa CityLine,Operating revenue,Logistics,"2,793.00","2,519.00","2,535.00"
+3,Lufthansa CityLine,Operating revenue,MRO,"4,341.00","4,584.00","4,729.00"
+4,Lufthansa CityLine,Operating revenue,IT Services,629,676,683
+5,Lufthansa CityLine,Operating revenue,Catering,"2,604.00","2,619.00","2,733.00"
+6,Lufthansa CityLine,Operating costs,Operating costs,"31,411.00","31,379.00","31,409.00"
+7,Lufthansa CityLine,Operating costs,Fuel,"7,392.00","7,058.00","6,751.00"
+8,Lufthansa CityLine,Operating costs,Staff costs,"6,741.00","7,350.00","7,335.00"
+9,Lufthansa CityLine,Operating costs,Fees and charges,"5,167.00","5,154.00","5,265.00"
+10,Lufthansa CityLine,Operating costs,"Depreciation, amortisation and impairment","1,839.00","1,766.00","1,512.00"
+11,Lufthansa CityLine,Operating profit (loss),Operating profit (loss),839,697,767
+12,Lufthansa CityLine,Operating profit (loss),Passenger Airline Group,556,495,553
+13,Lufthansa CityLine,Net profit (loss),Net profit (loss),"1,228.00",313,55
+14,Lufthansa CityLine,Total assets,Total assets,"28,559.00","29,084.00","30,474.00"
+15,Lufthansa CityLine,Cash and cash equivalents,Cash and cash equivalents,"1,436.00","1,550.00",953
+16,Lufthansa CityLine,Total liabilities,Total liabilities,"23,720.00","22,976.00","26,443.00"
+0,Brussels Airlines,Revenue,Revenue,"1,138.00","1,191.80","1,274.00"
+1,Brussels Airlines,Operating profit (loss),Operating profit (loss),-28,-9,43.1
+2,Brussels Airlines,Net profit (loss),Net profit (loss),-22,-4.2,41.3
+0,Horizon Air,Operating revenue,Operating revenue,"5,156.00","5,368.00","5,598.00"
+1,Horizon Air,Operating revenue,Passenger,"4,267.00","4,579.00","4,793.00"
+2,Horizon Air,Operating revenue,Freight and mail,113,114,108
+3,Horizon Air,Operating costs,Operating costs,"4,318.00","4,406.00","4,300.00"
+4,Horizon Air,Operating costs,Wages and benefits,"1,086.00","1,136.00","1,254.00"
+5,Horizon Air,Operating costs,"Aircraft fuel, including hedging gains and losses","1,467.00","1,418.00",954
+6,Horizon Air,Operating costs,Aircraft maintenance,247,229,253
+7,Horizon Air,Operating costs,Landing fees and other rentals,262,279,296
+8,Horizon Air,Operating costs,Depreciation and amortisation,270,294,320
+9,Horizon Air,Operating costs,Food and beverages,84,93,113
+10,Horizon Air,Operating costs,Variable incentive pay,105,116,120
+11,Horizon Air,Operating costs,Aircraft rent,119,110,105
+12,Horizon Air,Operating costs,Contracted services,221,196,214
+13,Horizon Air,Operating costs,Selling expenses,179,199,211
+14,Horizon Air,Operating costs,Third party regional carrier expense,,58,72
+15,Horizon Air,Operating profit (loss),Operating profit (loss),838,962,"1,298.00"
+16,Horizon Air,Net profit (loss),Net profit (loss),508,605,848
+17,Horizon Air,Total assets,Total assets,"5,838.00","6,064.00","6,533.00"
+18,Horizon Air,Cash and cash equivalents,Cash and cash equivalents,80,107,73
+19,Horizon Air,Total liabilities,Total liabilities,"3,809.00","3,937.00","4,122.00"
+0,Aer Lingus,Operating revenue,Operating revenue,"18,675.00","20,170.00","22,858.00"
+1,Aer Lingus,Operating revenue,Passenger,"16,264.00","17,825.00","20,350.00"
+2,Aer Lingus,Operating revenue,Cargo,"1,073.00",992,"1,024.00"
+3,Aer Lingus,Operating costs,Operating costs,"17,905.00","18,780.00","20,523.00"
+4,Aer Lingus,Operating costs,Employee costs,"4,123.00","4,325.00","4,905.00"
+5,Aer Lingus,Operating costs,Fuel and oil costs,"5,951.00","5,987.00","6,082.00"
+6,Aer Lingus,Operating costs,"Handling, catering and other operating costs","1,932.00","2,063.00","2,371.00"
+7,Aer Lingus,Operating costs,Landing fees and en-route charges,"1,422.00","1,555.00","1,882.00"
+8,Aer Lingus,Operating costs,Engineering and other aircraft costs,"1,237.00","1,276.00","1,395.00"
+9,Aer Lingus,Operating costs,"Depreciation, amortisation and impairment","1,006.00","1,196.00","1,307.00"
+10,Aer Lingus,Operating costs,"Property, IT and other costs",922,927,965
+11,Aer Lingus,Operating costs,Selling costs,785,859,912
+12,Aer Lingus,Operating costs,Aircraft operating lease,482,551,659
+13,Aer Lingus,Operating profit (loss),Operating profit (loss),770,"1,390.00","2,335.00"
+14,Aer Lingus,Net profit (loss),Net profit (loss),147,"1,003.00","1,539.00"
+15,Aer Lingus,Total assets,Total assets,"20,777.00","23,652.00","28,229.00"
+16,Aer Lingus,Cash and cash equivalents,Cash and cash equivalents,"1,541.00","1,528.00","2,909.00"
+17,Aer Lingus,Total liabilities,Total liabilities,"16,561.00","19,859.00","22,695.00"
+0,Finnair,Operating revenue,Operating revenue,"2,449.10","2,400.30","2,284.50"
+1,Finnair,Operating costs,Operating costs,"2,428.70","2,407.20","2,339.20"
+2,Finnair,Operating costs,Fuel,670.3,689.9,660.4
+3,Finnair,Operating costs,Staff costs,429.2,381.3,344.5
+4,Finnair,Operating costs,Traffic charges,226,222.3,230.9
+5,Finnair,Operating costs,Ground handling and catering expenses,247.2,257.3,251.8
+6,Finnair,Operating costs,Fleet materials and overhaul,133.1,125.8,119.4
+7,Finnair,Operating costs,Depreciation and impairment,,140.7,134.3
+8,Finnair,Operating costs,Other rental payments,123.2,152,159.7
+9,Finnair,Operating costs,Expenses for tour operations,96.8,89.4,76.7
+10,Finnair,Operating costs,Sales and marketing expenses,75.7,72.9,65.3
+11,Finnair,Operating costs,Lease payment for aircraft,66.2,57.5,78.8
+12,Finnair,Operating profit (loss),Operating profit (loss),43.2,11.9,-36.5
+13,Finnair,Net profit (loss),Net profit (loss),10.5,22.9,-82.5
+14,Finnair,Total assets,Total assets,"2,231.30","2,117.60","1,885.10"
+15,Finnair,Cash and cash equivalents,Cash and cash equivalents,67,122.9,93.4
+16,Finnair,Total liabilities,Total liabilities,"1,456.00","1,439.60","1,370.70"
+17,Finnair,Total liabilities,Depreciation,130.8,,
+0,Hawaiian Airlines,Operating revenue,Operating revenue,"2,155.90","2,314.90","2,317.50"
+1,Hawaiian Airlines,Operating revenue,Passenger,"1,942.80","2,045.10","2,025.60"
+2,Hawaiian Airlines,Operating revenue,Others,213,269.8,291.9
+3,Hawaiian Airlines,Operating costs,Operating costs,"2,022.10","2,069.70","1,891.40"
+4,Hawaiian Airlines,Operating costs,Aircraft fuel,698.8,678.3,417.7
+5,Hawaiian Airlines,Operating costs,Wages and benefits,427.4,447.4,499.5
+6,Hawaiian Airlines,Operating costs,Maintenance materials and repairs,203.4,225.6,224.6
+7,Hawaiian Airlines,Operating costs,Commissions and other selling,125.9,122.5,119.7
+8,Hawaiian Airlines,Operating costs,Aircraft and passenger servicing,120.6,122.8,117.4
+9,Hawaiian Airlines,Operating costs,Aircraft rent,108.5,106.4,115.7
+10,Hawaiian Airlines,Operating costs,Other rentals and landing fees,81.3,87.9,95.1
+11,Hawaiian Airlines,Operating costs,Depreciation and amortisation,83.1,,105.6
+12,Hawaiian Airlines,Operating profit (loss),Operating profit (loss),133.7,245.1,426.1
+13,Hawaiian Airlines,Net profit (loss),Net profit (loss),51.9,68.9,182.6
+14,Hawaiian Airlines,Total assets,Total assets,"2,164.30","2,580.60","2,509.70"
+15,Hawaiian Airlines,Cash and cash equivalents,Cash and cash equivalents,423.4,264.1,281.5
+16,Hawaiian Airlines,Total liabilities,Total liabilities,"1,767.40","2,213.40","2,063.60"
+17,Hawaiian Airlines,Total liabilities,Purchased services,,,81.8
+0,Piedmont Airlines,Operating revenue,Operating revenue,"40,419.00","42,650.00","40,990.00"
+1,Piedmont Airlines,Operating revenue,Passenger,"35,542.00","37,124.00","35,512.00"
+2,Piedmont Airlines,Operating revenue,Cargo,830,875,760
+3,Piedmont Airlines,Operating revenue,Others,"4,047.00","4,651.00","4,718.00"
+4,Piedmont Airlines,Operating costs,Operating costs,"37,840.00","38,401.00","34,786.00"
+5,Piedmont Airlines,Operating costs,Aircraft fuel,"11,109.00","10,592.00","6,226.00"
+6,Piedmont Airlines,Operating costs,"Wages, salaries and benefits","7,887.00","8,508.00","9,524.00"
+7,Piedmont Airlines,Operating costs,Regional expenses,"6,417.00","6,516.00","5,983.00"
+8,Piedmont Airlines,Operating costs,"Maintenance, materials and repairs","1,927.00","2,051.00","1,889.00"
+9,Piedmont Airlines,Operating costs,Landing fees and other rentals,"1,699.00","1,727.00","1,731.00"
+10,Piedmont Airlines,Operating costs,Aircraft rent,"1,336.00","1,250.00","1,250.00"
+11,Piedmont Airlines,Operating costs,Selling expense,"1,608.00","1,544.00","1,394.00"
+12,Piedmont Airlines,Operating costs,Depreciation and amortisation,"1,132.00","1,295.00","1,364.00"
+13,Piedmont Airlines,Operating profit (loss),Operating profit (loss),"2,579.00","4,249.00","6,204.00"
+14,Piedmont Airlines,Net profit (loss),Net profit (loss),"-1,233.00","2,882.00","7,610.00"
+15,Piedmont Airlines,Total assets,Total assets,"42,278.00","43,225.00","48,415.00"
+16,Piedmont Airlines,CASH,CASH,"1,140.00",994,390
+17,Piedmont Airlines,Total liabilities,Total liabilities,"45,009.00","41,204.00","42,780.00"
+0,Aegean Airlines,Revenue,Revenue,653.4,850,911.8
+1,Aegean Airlines,Revenue,Scheduled,461.5,720.2,748.6
+2,Aegean Airlines,Revenue,Charter,67.8,77.8,61.4
+3,Aegean Airlines,Revenue,Airport passenger charges,90.5,,
+4,Aegean Airlines,Costs,Costs,686.7,783.1,815.6
+5,Aegean Airlines,Costs,Fuel,186,223.5,232.8
+6,Aegean Airlines,Costs,Airport charges,117.8,34.5,37.4
+7,Aegean Airlines,Costs,Aircraft and spare engines leasing,70.5,,
+8,Aegean Airlines,Costs,Employee costs,69.9,102.7,100.5
+9,Aegean Airlines,Costs,Aircraft maintenance,47.9,71.3,77.6
+10,Aegean Airlines,Costs,Eurocontrol charges,38.6,,
+11,Aegean Airlines,Costs,Distribution,36.2,58,61.2
+12,Aegean Airlines,Costs,Handling charges,32.6,51.6,51.5
+13,Aegean Airlines,Costs,Catering,18.1,18.6,21.1
+14,Aegean Airlines,Costs,Marketing,5.9,8.4,12.3
+15,Aegean Airlines,Operating profit (loss),Operating profit (loss),-8.9,76.8,106
+16,Aegean Airlines,Net profit (loss),Net profit (loss),-10.5,52.5,80.2
+17,Aegean Airlines,Total assets,Total assets,397.2,561.4,627.4
+18,Aegean Airlines,Cash and cash equivalents,Cash and cash equivalents,149.3,226.9,207.5
+19,Aegean Airlines,Total liabilities,Total liabilities,243.9,348.5,411
+20,Aegean Airlines,Total liabilities,Overflight expenses,,46.2,53.9
+21,Aegean Airlines,Total liabilities,Depreciation,,14.1,12.8
+0,Citilink,Total operating revenue,Total operating revenue,273.4,403.5,470
+1,Citilink,Total operating costs,Total operating costs,333.6,417.1,459.5
+2,Citilink,Operating profit (loss),Operating profit (loss),-60.2,-13.5,10.6
+3,Citilink,Profit (loss) before tax,Profit (loss) before tax,-63,-19.1,6.5
+4,Citilink,Net profit (loss),Net profit (loss),-48.5,-14.9,3.6
+5,Citilink,Total assets,Total assets,106.1,166.8,245.5
+6,Citilink,Total liabilities,Total liabilities,131,209.4,227.9
+0,KLM Cityhopper,Operating revenue,Operating revenue,"25,520.00","24,912.00","26,059.00"
+1,KLM Cityhopper,Operating revenue,Passenger,"20,112.00","19,570.00","20,541.00"
+2,KLM Cityhopper,Operating revenue,Cargo,"2,816.00","2,681.00","2,425.00"
+3,KLM Cityhopper,Operating costs,Operating costs,"25,400.00","25,567.00","26,359.00"
+4,KLM Cityhopper,Operating costs,Salaries and related costs,"7,482.00","7,636.00","7,852.00"
+5,KLM Cityhopper,Operating costs,Aircraft fuel,"6,897.00","6,629.00","6,183.00"
+6,KLM Cityhopper,Operating costs,"Amortisation, depreciation and provisions","1,725.00","1,718.00","1,631.00"
+7,KLM Cityhopper,Operating costs,Landing fees and en route charges,"1,839.00","1,840.00","1,947.00"
+8,KLM Cityhopper,Operating costs,Handling charges and other operating costs,"1,405.00","1,476.00","1,536.00"
+9,KLM Cityhopper,Operating costs,Aircraft maintenance,"1,303.00","1,729.00","2,372.00"
+10,KLM Cityhopper,Operating costs,Aircraft operating lease,913,873,"1,027.00"
+11,KLM Cityhopper,Operating costs,Commercial and distribution,852,870,896
+12,KLM Cityhopper,Operating costs,Catering,589,591,655
+13,KLM Cityhopper,Operating costs,Chartering costs,455,438,430
+14,KLM Cityhopper,Operating profit (loss),Operating profit (loss),130,-129,816
+15,KLM Cityhopper,Net profit (loss),Net profit (loss),"-1,818.00",-216,127
+16,KLM Cityhopper,Total assets,Total assets,"25,423.00","23,241.00","23,335.00"
+17,KLM Cityhopper,Cash and cash equivalents,Cash and cash equivalents,"3,684.00","3,159.00","3,104.00"
+18,KLM Cityhopper,Total liabilities,Total liabilities,"23,133.00","23,894.00","23,062.00"
+0,Oman Air,Revenue,Revenue,381.7,408.4,466
+1,Oman Air,Revenue,International scheduled services,323.3,347.6,399.2
+2,Oman Air,Revenue,Domestic scheduled services,20.5,22.1,23.5
+3,Oman Air,Costs,Costs,482.4,504.8,532.4
+4,Oman Air,Costs,Fuel,168.5,161.6,122.8
+5,Oman Air,Costs,Employee,105.4,114.9,131.2
+6,Oman Air,Costs,Other aircraft operating costs,51.7,52.6,64.2
+7,Oman Air,Costs,Maintenance,37.1,38,45.7
+8,Oman Air,Costs,Passenger related,30.4,40.8,46.8
+9,Oman Air,Costs,Depreciation,27.9,29.7,38.5
+10,Oman Air,Costs,Operating lease rentals on aircraft,27.4,29.1,36
+11,Oman Air,Operating profit (loss),Operating profit (loss),-100.7,-96.4,-66.5
+12,Oman Air,Net profit (loss),Net profit (loss),-113.3,-109.6,-86.3
+13,Oman Air,Total assets,Total assets,602.4,750.2,737
+14,Oman Air,Cash on hand and in banks,Cash on hand and in banks,12.9,19.7,10.5
+15,Oman Air,Total liabilities,Total liabilities,552.6,662.8,682
+0,Air Canada rouge,Operating revenue,Operating revenue,"12,382.00","13,272.00","13,868.00"
+1,Air Canada rouge,Operating revenue,Passenger,"11,021.00","11,804.00","12,420.00"
+2,Air Canada rouge,Operating revenue,Cargo,474,502,506
+3,Air Canada rouge,Operating costs,Operating costs,"11,763.00","12,457.00","12,372.00"
+4,Air Canada rouge,Operating costs,Aircraft fuel,"3,534.00","3,747.00","2,464.00"
+5,Air Canada rouge,Operating costs,"Wages, salaries and benefits","2,247.00","2,282.00","2,324.00"
+6,Air Canada rouge,Operating costs,Airport and navigation fees,983,"1,031.00",802
+7,Air Canada rouge,Operating costs,Capacity purchase agreements,"1,123.00","1,182.00",
+8,Air Canada rouge,Operating costs,Depreciation and amortisation,578,543,655
+9,Air Canada rouge,Operating costs,Aircraft maintenance,632,728,773
+10,Air Canada rouge,Operating costs,Sales and distribution,613,672,608
+11,Air Canada rouge,Operating costs,Aircraft rent,318,313,353
+12,Air Canada rouge,Operating profit (loss),Operating profit (loss),619,815,"1,496.00"
+13,Air Canada rouge,Net profit (loss),Net profit (loss),6,105,308
+14,Air Canada rouge,Total assets,Total assets,"9,470.00","10,648.00","13,127.00"
+15,Air Canada rouge,"Cash, cash equivalents and short-term investments","Cash, cash equivalents and short-term investments","2,208.00","2,275.00","2,672.00"
+16,Air Canada rouge,Total liabilities,Total liabilities,"10,867.00","11,781.00","13,087.00"
+17,Air Canada rouge,Total liabilities,Regional airlines,,,"2,279.00"
+0,El Al,Operating revenue,Operating revenue,"2,015,642,00","2,103,020,00","2,081,303,00"
+1,El Al,Operating revenue,Passenger,"1,827,943,00","1,841,883,00","1,828,220,00"
+2,El Al,Operating revenue,Cargo,"80,431,00","182,436,00","179,409,00"
+3,El Al,Expenses,Expenses,"2,006,967,00","2,063,348,00","2,096,472,00"
+4,El Al,Expenses,Operating expenses,"1,702,381,00","1,752,828,00","1,790,997,00"
+5,El Al,Selling expenses,Selling expenses,"209,210,00","204,714,00","201,066,00"
+6,El Al,General and administrative expenses,General and administrative expenses,"95,376,00","105,806,00","104,415,00"
+7,El Al,Operating profit (loss),Operating profit (loss),"11,478,00","39,666,00","-3,650,00"
+8,El Al,Net profit (loss),Net profit (loss),"-18,831,00","26,667,00","-28,060,00"
+9,El Al,Total assets,Total assets,"1,505,643,00","1,567,276,00","1,581,620,00"
+10,El Al,Cash and cash equivalents,Cash and cash equivalents,"52,810,00","86,140,00","54,681,00"
+11,El Al,Total liabilities,Total liabilities,"1,354,216,00","1,383,777,00","1,470,185,00"
+0,ANA Wings,Operating revenue,Operating revenue,"1,570,145.00","1,713,457.00","1,791,187.00"
+1,ANA Wings,Operating revenue,Passenger,"1,070,493.00","1,151,690.00","1,201,334.00"
+2,ANA Wings,Operating revenue,Cargo,"145,572.00","166,993.00","155,379.00"
+3,ANA Wings,Operating costs,Operating costs,"1,504,159.00","1,621,916.00","1,654,724.00"
+4,ANA Wings,Operating costs,Fuel and fuel tax,"335,200.00","367,600.00","306,200.00"
+5,ANA Wings,Operating costs,Personnel,"167,600.00","167,100.00","179,100.00"
+6,ANA Wings,Operating costs,Depreciation and amortisation,"129,800.00","125,400.00","132,000.00"
+7,ANA Wings,Operating costs,Landing and navigation fees,"108,200.00","114,300.00","116,500.00"
+8,ANA Wings,Operating costs,Contracts,"157,300.00","171,200.00","186,100.00"
+9,ANA Wings,Operating costs,Aircraft leasing fees,"79,000.00","91,500.00","95,700.00"
+10,ANA Wings,Operating costs,Aircraft maintenance,"83,100.00","92,600.00","110,700.00"
+11,ANA Wings,Operating costs,Sales commission and promotion,"77,800.00","102,600.00","105,900.00"
+12,ANA Wings,Operating profit (loss),Operating profit (loss),"65,986.00","91,541.00","136,463.00"
+13,ANA Wings,Operating profit (loss),Air transportation,"65,300.00","81,600.00","139,700.00"
+14,ANA Wings,Net profit (loss),Net profit (loss),"18,886.00","40,027.00","78,586.00"
+15,ANA Wings,Total assets,Total assets,"2,173,607.00","2,302,437.00","2,228,808.00"
+16,ANA Wings,Cash on hand and in banks,Cash on hand and in banks,"28,972.00","43,901.00","55,293.00"
+17,ANA Wings,Total liabilities,Total liabilities,"1,422,316.00","1,498,885.00","1,433,908.00"
+0,Air Arabia,Revenue,Revenue,"2,832.50","3,183.80","3,728.80"
+1,Air Arabia,Revenue,Passenger,"2,565.30","2,766.80","3,274.30"
+2,Air Arabia,Revenue,Cargo,62.4,79.6,90.9
+3,Air Arabia,Costs,Costs,"2,505.30","2,840.20","3,245.90"
+4,Air Arabia,Costs,Direct costs,"2,359.80","2,681.30","3,045.90"
+5,Air Arabia,Costs,Selling and marketing costs,45.4,54.4,51.8
+6,Air Arabia,Costs,General and administrative costs,100.2,104.6,148.2
+7,Air Arabia,Net profit (loss),Net profit (loss),419.5,420.7,552.9
+8,Air Arabia,Total assets,Total assets,"8,042.60","9,394.70","10,574.40"
+9,Air Arabia,Bank balances and cash,Bank balances and cash,"1,306.80","1,391.10","1,324.30"
+10,Air Arabia,Total liabilities,Total liabilities,"2,602.00","3,818.50","5,493.40"
+11,Air Arabia,Operating profit (loss),Operating profit (loss),,343.6,482.9
+0,Pakistan International Airlines,Revenue,Revenue,"112,130.10","95,771.10","99,519.10"
+1,Pakistan International Airlines,Revenue,Passengers,"100,805.80","84,956.60","90,386.00"
+2,Pakistan International Airlines,Revenue,Cargo and mail,"6,710.70","6,327.10","4,517.80"
+3,Pakistan International Airlines,Revenue,Excess baggage,983.1,"1,109.80","1,128.70"
+4,Pakistan International Airlines,Operating costs,Operating costs,"126,503.30","120,585.70","115,223.10"
+5,Pakistan International Airlines,Operating costs,Fuel,"61,157.30","55,116.10","48,033.90"
+6,Pakistan International Airlines,Operating costs,Labour and staff related costs,"11,942.90","12,614.80","13,815.90"
+7,Pakistan International Airlines,Operating costs,Landing and handling,"12,296.80","14,656.40","13,151.90"
+8,Pakistan International Airlines,Operating costs,Maintenance and overhaul,"5,098.60","2,913.50","3,684.30"
+9,Pakistan International Airlines,Operating costs,Passenger services,"3,441.60","3,135.90","2,761.20"
+10,Pakistan International Airlines,Operating costs,Crew layover,"2,960.30","2,976.80","2,856.00"
+11,Pakistan International Airlines,Operating costs,Stores and spares consumed,"2,487.00","1,930.70",954.5
+12,Pakistan International Airlines,Operating costs,Flight equipment rental,"1,497.20","1,919.90","5,453.50"
+13,Pakistan International Airlines,Operating costs,Distribution,"6,772.00","4,239.40","4,487.00"
+14,Pakistan International Airlines,Operating costs,Depreciation,"7,145.70","6,897.70","6,690.30"
+15,Pakistan International Airlines,Operating profit (loss),Operating profit (loss),"-14,373.20","-24,814.50","-15,704.10"
+16,Pakistan International Airlines,Net profit (loss),Net profit (loss),"-30,586.30","-44,322.00","-32,222.50"
+17,Pakistan International Airlines,Total assets,Total assets,"128,673.90","158,198.20","151,616.70"
+18,Pakistan International Airlines,Cash and bank balances,Cash and bank balances,"2,172.40","2,290.10","1,685.10"
+19,Pakistan International Airlines,Total liabilities,Total liabilities,"238,352.60","268,934.10","295,497.90"
+0,Avianca El Salvador,Total operating revenue,Total operating revenue,"4,609.60","4,703.60","4,361.30"
+1,Avianca El Salvador,Total operating revenue,Passenger,"3,862.40","3,862.70","3,458.00"
+2,Avianca El Salvador,Total operating revenue,Cargo and other,747.2,840.9,903.3
+3,Avianca El Salvador,Total operating costs,Total operating costs,"4,224.70","4,424.10","4,142.50"
+4,Avianca El Salvador,Total operating costs,Fuel,"1,325.80","1,345.80","1,006.80"
+5,Avianca El Salvador,Total operating costs,"Salaries, wages and benefits",675,725.8,666.1
+6,Avianca El Salvador,Total operating costs,Sales and marketing,584.5,605.7,612.8
+7,Avianca El Salvador,Total operating costs,Ground operations,343.8,397.6,412.4
+8,Avianca El Salvador,Total operating costs,Aircraft rentals,273.6,299.2,317.5
+9,Avianca El Salvador,Total operating costs,Maintenance and repairs,188.7,268.9,309.7
+10,Avianca El Salvador,Total operating costs,Depreciation and amortisation,169.6,198.7,230.7
+11,Avianca El Salvador,Total operating costs,Air traffic,180.1,206.2,203
+12,Avianca El Salvador,Total operating costs,"General, administrative and other",257.3,165.2,176.2
+13,Avianca El Salvador,Total operating costs,Passenger services,143.5,154.5,149.3
+14,Avianca El Salvador,Total operating costs,Flight operations,82.9,56.7,58.1
+15,Avianca El Salvador,Operating profit (loss),Operating profit (loss),384.9,279.5,218.8
+16,Avianca El Salvador,Net profit (loss),Net profit (loss),248.8,128.5,-139.5
+17,Avianca El Salvador,Total assets,Total assets,"5,179.00","6,175.50","6,588.30"
+18,Avianca El Salvador,Cash and cash equivalents,Cash and cash equivalents,735.6,640.9,479.4
+19,Avianca El Salvador,Total liabilities,Total liabilities,"3,964.30","4,958.80","5,215.70"
+0,Lucky Air,Operating revenue,Operating revenue,"2,882.20","3,314.00","3,511.50"
+1,Lucky Air,Operating costs,Operating costs,"2,411.30","2,747.60","3,098.90"
+2,Lucky Air,Operating profit (loss),Operating profit (loss),159.2,224.9,58.7
+3,Lucky Air,Net profit (loss),Net profit (loss),145,232.6,101.9
+4,Lucky Air,Total assets,Total assets,"4,108.90","7,182.90","10,081.20"
+5,Lucky Air,Total liabilities,Total liabilities,"2,116.80","4,960.40","7,256.80"
+0,Kenya Airways,Revenue,Revenue,"106,009.00","110,161.00","116,158.00"
+1,Kenya Airways,Revenue,Passenger,"90,179.00","90,408.00","94,801.00"
+2,Kenya Airways,Revenue,Cargo and mail,"9,942.00","9,783.00","8,897.00"
+3,Kenya Airways,Operating costs,Operating costs,"108,730.00","126,494.00","120,251.00"
+4,Kenya Airways,Operating costs,Staff costs,"15,347.00","16,960.00","15,669.00"
+5,Kenya Airways,Operating costs,Depreciation on aircraft and engines,"5,158.00","8,570.00","6,225.00"
+6,Kenya Airways,Operating costs,Hire of aircraft and engines,"7,656.00","9,919.00","17,592.00"
+7,Kenya Airways,Operating costs,Central reservations system and frequent flyer programme,"4,170.00","1,535.00","1,610.00"
+8,Kenya Airways,Operating costs,Crew route expenses,246,"2,666.00","2,629.00"
+9,Kenya Airways,Operating costs,Commissions on sales,"2,949.00","3,623.00","2,947.00"
+10,Kenya Airways,Operating costs,Passenger services,"4,620.00","5,213.00","5,599.00"
+11,Kenya Airways,Operating costs,Aircraft maintenance,"8,765.00","9,035.00","10,951.00"
+12,Kenya Airways,Operating costs,"Aircraft landing, handling and navigation","10,770.00","12,275.00","14,159.00"
+13,Kenya Airways,Operating costs,Aircraft fuel and oil,"39,848.00","36,967.00","24,234.00"
+14,Kenya Airways,Operating profit (loss),Operating profit (loss),"-2,721.00","-16,333.00","-4,093.00"
+15,Kenya Airways,Net profit (loss),Net profit (loss),"-3,382.00","-25,743.00","-26,225.00"
+16,Kenya Airways,Total assets,Total assets,"148,657.00","182,063.00","158,415.00"
+17,Kenya Airways,Cash and cash equivalents,Cash and cash equivalents,"11,218.00","3,267.00","4,827.00"
+18,Kenya Airways,Total liabilities,Total liabilities,"120,428.00","188,026.00","194,082.00"
+0,Bangkok Airways,Total revenue,Total revenue,"20,721.40","22,123.50","24,902.90"
+1,Bangkok Airways,Total revenue,Airlines,"16,734.70","17,844.10","19,429.60"
+2,Bangkok Airways,Total revenue,Airports,485.5,31,535.3
+3,Bangkok Airways,Total revenue,Airport related services,"2,698.70",463.9,"3,148.30"
+4,Bangkok Airways,Total costs,Total costs,"18,219.80","20,536.60","21,701.50"
+5,Bangkok Airways,Total costs,Fuel,"4,162.50","5,205.00","4,401.30"
+6,Bangkok Airways,Total costs,"Salaries, wages and benefits",,"4,150.90","4,982.60"
+7,Bangkok Airways,Total costs,Passenger services,"2,085.30","2,609.60","3,072.40"
+8,Bangkok Airways,Total costs,Aircraft repair and maintenance,"1,411.20","2,094.20","2,218.70"
+9,Bangkok Airways,Total costs,Aircraft leasing,"1,530.20","1,754.00","1,621.70"
+10,Bangkok Airways,Total costs,Ground services,,934.5,"1,181.40"
+11,Bangkok Airways,Total costs,Booking expense,,"1,056.00","1,269.30"
+12,Bangkok Airways,Total costs,Depreciation and amortisation,,644.7,834
+13,Bangkok Airways,Operating profit (loss),Operating profit (loss),"2,501.60","1,586.90","3,201.40"
+14,Bangkok Airways,Net profit (loss),Net profit (loss),932.5,385.7,"1,849.10"
+15,Bangkok Airways,Total assets,Total assets,"30,393.10","48,578.90","57,012.60"
+16,Bangkok Airways,Cash and cash equivalents,Cash and cash equivalents,"2,552.90","2,175.10","4,628.00"
+17,Bangkok Airways,Total liabilities,Total liabilities,"23,201.30","23,146.90","25,916.90"
+0,Hong Kong Airlines,Operating revenue,Operating revenue,"4,675.50","6,250.10","8,546.80"
+1,Hong Kong Airlines,Operating revenue,Passenger,"2,916.50","3,765.30","5,447.60"
+2,Hong Kong Airlines,Operating revenue,Cargo,"1,202.40","1,698.10","1,762.80"
+3,Hong Kong Airlines,Operating costs,Operating costs,"4,241.10","5,830.90","7,606.20"
+4,Hong Kong Airlines,Operating costs,Aircraft fuel,"1,523.50","1,978.60","2,400.40"
+5,Hong Kong Airlines,Operating costs,"Landing, parking and route expenses",857.2,"1,048.20","1,236.70"
+6,Hong Kong Airlines,Operating costs,"Wages, salaries and benefits",476.3,760.4,926
+7,Hong Kong Airlines,Operating costs,Aircraft operating lease rentals,214.6,395.6,918.1
+8,Hong Kong Airlines,Operating costs,Aircraft and other depreciation,487.9,674.3,853.8
+9,Hong Kong Airlines,Operating costs,Aircraft maintenance,173,278.8,385.3
+10,Hong Kong Airlines,Operating costs,Selling and marketing expenses,183.8,248.3,348.3
+11,Hong Kong Airlines,Operating costs,Food and beverages,160.4,208,282.9
+12,Hong Kong Airlines,Operating profit (loss),Operating profit (loss),500.1,740.4,"1,045.60"
+13,Hong Kong Airlines,Net profit (loss),Net profit (loss),147.9,274.7,493.3
+14,Hong Kong Airlines,Total assets,Total assets,"17,485.90","21,454.70","22,947.90"
+15,Hong Kong Airlines,Cash and cash equivalents,Cash and cash equivalents,693.6,270.8,"1,464.40"
+16,Hong Kong Airlines,Total liabilities,Total liabilities,"13,285.80","16,996.50","16,382.70"
+0,Monarch Airlines,Revenue,Revenue,608.5,673.7,767.5
+1,Monarch Airlines,Profit (loss) before tax,Profit (loss) before tax,-70.1,-43.6,8.7
+0,Nok Air,Total revenue,Total revenue,"11,314.70","12,384.30","14,296.20"
+1,Nok Air,Total revenue,Passenger,"10,542.00","11,247.40","12,729.90"
+2,Nok Air,Total revenue,Services,637.8,717.2,"1,022.70"
+3,Nok Air,Total revenue,Others,135,209.8,543.6
+4,Nok Air,Total costs,Total costs,"10,215.20","12,840.60","15,954.50"
+5,Nok Air,Total costs,Fuel,"3,473.60","4,417.60","3,600.80"
+6,Nok Air,Total costs,Aircraft maintenance,"1,828.80","2,402.30","3,806.30"
+7,Nok Air,Total costs,Aircraft lease and spare parts,"1,654.10","2,012.40","3,294.10"
+8,Nok Air,Total costs,Ground service expense and navigation fee,844,"1,154.30","1,480.70"
+9,Nok Air,Total costs,Employee benefit,779.7,947.9,"1,353.90"
+10,Nok Air,Total costs,Expenses related to cockpit and cabin crews,247.6,396.9,496
+11,Nok Air,Total costs,Promotion advertising expenses,327.2,389.3,394.1
+12,Nok Air,Profit (loss) before tax,Profit (loss) before tax,"1,099.50",-666.2,"-1,658.30"
+13,Nok Air,Net profit (loss),Net profit (loss),"1,066.10",-665.8,"-1,664.50"
+14,Nok Air,Total assets,Total assets,"6,271.70","6,569.00","7,110.20"
+15,Nok Air,Cash and cash equivalents,Cash and cash equivalents,565.4,"2,926.60","4,213.80"
+16,Nok Air,Total liabilities,Total liabilities,"1,728.20","2,219.60","4,168.20"
+0,Icelandair,Revenue,Revenue,898.9,"1,023.00","1,113.30"
+1,Icelandair,Revenue,Passenger,564.9,660,766.6
+2,Icelandair,Revenue,Cargo and mail,39.6,42.9,44.4
+3,Icelandair,Revenue,Aircraft and aircrew lease,167.6,152.5,26.7
+4,Icelandair,Revenue,Others,173.6,202.1,227.5
+5,Icelandair,Costs,Costs,789.2,879.2,959
+6,Icelandair,Costs,Aircraf fuel,220.1,242.6,271.9
+7,Icelandair,Costs,Salaries and other personnel expenses,203.8,239.4,273.2
+8,Icelandair,Costs,Aircraft maintenance,78.2,81.5,75.9
+9,Icelandair,Costs,"Aircraft handling, landing and communication",66.5,74.1,82.9
+10,Icelandair,Operating profit (loss),Operating profit (loss),50.8,73,79
+11,Icelandair,Net profit (loss),Net profit (loss),44.2,56.4,66.5
+12,Icelandair,Total assets,Total assets,762.9,832.9,84.9
+13,Icelandair,Cash and cash equivalents,Cash and cash equivalents,117.1,191.5,184.8
+14,Icelandair,Total liabilities,Total liabilities,467,486.8,484.2
+0,Air Astana,Revenue,Revenue,966.9,934.8,761.7
+1,Air Astana,Revenue,Passenger,917.1,888.2,726.8
+2,Air Astana,Revenue,Cargo and mail,29.4,26.4,19.6
+3,Air Astana,Revenue,Other,20.4,20.2,15.4
+4,Air Astana,Operating costs,Operating costs,894.7,836.3,728.7
+5,Air Astana,Operating costs,Fuel,280,252.1,165.3
+6,Air Astana,Operating costs,Employee costs,99.1,103.7,84
+7,Air Astana,Operating costs,"Handling, landing fees and route charges",118,110.1,105
+8,Air Astana,Operating costs,Engineering and maintenance,79.9,76.9,97.3
+9,Air Astana,Operating costs,Aircraft operating lease,78.2,67.1,59.3
+10,Air Astana,Operating costs,Passenger service,92.7,87.4,80.2
+11,Air Astana,Operating costs,Selling costs,48.2,39.7,36.8
+12,Air Astana,Operating costs,Depreciation and amortisation,29.3,45.9,48.5
+13,Air Astana,Operating costs,Air crew expenses,39.5,26.6,29.3
+14,Air Astana,Operating profit (loss),Operating profit (loss),72.2,98.5,33.1
+15,Air Astana,Net profit (loss),Net profit (loss),51.4,19.5,48.7
+16,Air Astana,Total assets,Total assets,891.1,889.5,613.8
+17,Air Astana,Cash and bank balances,Cash and bank balances,13.7,70.9,52.5
+18,Air Astana,Total liabilities,Total liabilities,583.5,619.9,534.1
+0,China United Airlines,Operating revenue,Operating revenue,"88,245.00","90,185.00","93,969.00"
+1,China United Airlines,Operating revenue,Passenger,"72,927.70","75,261.00","78,585.00"
+2,China United Airlines,Operating revenue,Cargo and mail,"7,603.30","7,328.00","6,491.00"
+3,China United Airlines,Operating costs,Operating costs,"89,394.00","87,823.00","86,619.00"
+4,China United Airlines,Operating costs,Fuel,"30,681.40","30,238.00","20,312.00"
+5,China United Airlines,Operating costs,"Wages, salaries and benefits","13,453.80","11,270.00","16,459.00"
+6,China United Airlines,Operating costs,Take-off and landing charges,"9,189.50","9,440.00","10,851.00"
+7,China United Airlines,Operating costs,Depreciation and amortisation,"8,226.20","9,183.00","10,471.00"
+8,China United Airlines,Operating costs,Aircraft maintenance,"4,690.10","4,453.00","4,304.00"
+9,China United Airlines,Operating costs,Aircraft operating lease,"4,605.50","4,502.00","4,254.00"
+10,China United Airlines,Operating costs,Selling and marketing,"4,138.90","4,120.00","3,651.00"
+11,China United Airlines,Operating costs,Food and beverages,"2,268.30","2,364.00","2,469.00"
+12,China United Airlines,Operating costs,Civil aviation infrastructure levies,"1,566.00","1,656.00","1,826.00"
+13,China United Airlines,Operating costs,Ground services and other charges,"5,105.00","4,998.00","5,479.00"
+14,China United Airlines,Operating profit (loss),Operating profit (loss),"1,576.40","6,058.00","12,625.00"
+15,China United Airlines,Net profit (loss),Net profit (loss),"2,093.00","3,540.00","5,043.00"
+16,China United Airlines,Total assets,Total assets,"140,068.00","165,829.00","197,992.00"
+17,China United Airlines,Cash and cash equivalents,Cash and cash equivalents,"1,995.00","1,355.00","9,080.00"
+18,China United Airlines,Total liabilities,Total liabilities,"111,485.80","134,058.00","158,061.00"
+0,Deer Jet,Operating revenue,Operating revenue,"28,867.60","30,231.40","36,043.80"
+1,Deer Jet,Operating costs,Operating costs,"21,557.60","23,501.20","34,100.60"
+2,Deer Jet,Operating profit (loss),Operating profit (loss),"1,991.90","2,265.20","2,498.70"
+3,Deer Jet,Net profit (loss),Net profit (loss),"1,927.80","2,105.10","2,642.60"
+4,Deer Jet,Total assets,Total assets,"92,719.10","103,281.90","121,982.00"
+5,Deer Jet,Cash and cash equivalents,Cash and cash equivalents,"22,312.40","20,664.80","21,715.60"
+6,Deer Jet,Total liabilities,Total liabilities,"68,809.90","77,758.10","90,257.30"
+7,Deer Jet,Total liabilities,Passenger,,,"31,459.60"
+8,Deer Jet,Total liabilities,Cargo and excess baggage,,,893.5
+0,Eurowings,Operating revenue,Operating revenue,"33,033.00","32,228.00","32,176.00"
+1,Eurowings,Operating revenue,Passenger airline group,"23,559.00","23,513.00","23,320.00"
+2,Eurowings,Operating revenue,Logistics,"2,793.00","2,519.00","2,535.00"
+3,Eurowings,Operating revenue,MRO,"4,341.00","4,584.00","4,729.00"
+4,Eurowings,Operating revenue,IT Services,629,676,683
+5,Eurowings,Operating revenue,Catering,"2,604.00","2,619.00","2,733.00"
+6,Eurowings,Operating costs,Operating costs,"31,411.00","31,379.00","31,409.00"
+7,Eurowings,Operating costs,Fuel,"7,392.00","7,058.00","6,751.00"
+8,Eurowings,Operating costs,Staff costs,"6,741.00","7,350.00","7,335.00"
+9,Eurowings,Operating costs,Fees and charges,"5,167.00","5,154.00","5,265.00"
+10,Eurowings,Operating costs,"Depreciation, amortisation and impairment","1,839.00","1,766.00","1,512.00"
+11,Eurowings,Operating profit (loss),Operating profit (loss),839,697,767
+12,Eurowings,Operating profit (loss),Passenger Airline Group,556,495,553
+13,Eurowings,Net profit (loss),Net profit (loss),"1,228.00",313,55
+14,Eurowings,Total assets,Total assets,"28,559.00","29,084.00","30,474.00"
+15,Eurowings,Cash and cash equivalents,Cash and cash equivalents,"1,436.00","1,550.00",953
+16,Eurowings,Total liabilities,Total liabilities,"23,720.00","22,976.00","26,443.00"
+0,Gulf Air,Operating profit (loss),Operating profit (loss),-183.8,-95.4,-62.7
+1,Gulf Air,Net profit (loss),Net profit (loss),-81.5,-12,
+0,Chengdu Airlines,Operating revenue,Operating revenue,"98,547.00","108,584.00","111,652.00"
+1,Chengdu Airlines,Operating revenue,Passenger,"88,271.00","97,145.00","100,238.00"
+2,Chengdu Airlines,Operating revenue,Cargo and mail,"6,413.00","7,183.00","6,861.00"
+3,Chengdu Airlines,Operating costs,Operating costs,"98,280.00","106,026.00","101,492.00"
+4,Chengdu Airlines,Operating costs,Fuel,"35,538.00","37,728.00","26,274.00"
+5,Chengdu Airlines,Operating costs,Aircraft and traffic servicing,"15,091.00","16,402.00","17,908.00"
+6,Chengdu Airlines,Operating costs,Maintenance,"7,805.00","8,304.00","10,407.00"
+7,Chengdu Airlines,Operating costs,Promotion and sales,"7,754.00","7,841.00","6,976.00"
+8,Chengdu Airlines,Operating costs,Operating lease charges,"4,767.00","5,383.00","6,153.00"
+9,Chengdu Airlines,Operating costs,Flight personnel payroll and welfare,"5,799.00","6,803.00","8,070.00"
+10,Chengdu Airlines,Operating costs,Depreciation and amortisation,"9,347.00","10,828.00","11,845.00"
+11,Chengdu Airlines,Operating profit (loss),Operating profit (loss),"1,510.00","4,748.00","13,438.00"
+12,Chengdu Airlines,Net profit (loss),Net profit (loss),"2,750.00","2,398.00","4,818.00"
+13,Chengdu Airlines,Total assets,Total assets,"165,207.00","189,688.00","185,989.00"
+14,Chengdu Airlines,Cash and cash equivalents,Cash and cash equivalents,"11,748.00","15,414.00","4,560.00"
+15,Chengdu Airlines,Total liabilities,Total liabilities,"122,756.00","145,195.00","136,365.00"
+0,J-Air,Operating revenue,Operating revenue,"1,204,800.00","1,238,839.00","1,309,343.00"
+1,J-Air,Operating revenue,Passenger,"866,300.00","891,871.00","924,992.00"
+2,J-Air,Operating revenue,Cargo,"78,800.00","75,566.00","79,685.00"
+3,J-Air,Operating costs,Operating costs,"999,800.00","1,043,596.00","1,142,500.00"
+4,J-Air,Operating costs,"Wages, salaries and benefits","213,600.00","226,700.00","235,200.00"
+5,J-Air,Operating costs,Aircraft fuel,"232,900.00","246,300.00","283,300.00"
+6,J-Air,Operating costs,Landing fees and other rent,"71,600.00","75,100.00","80,200.00"
+7,J-Air,Operating profit (loss),Operating profit (loss),"204,900.00","195,242.00","166,792.00"
+8,J-Air,Net profit (loss),Net profit (loss),"186,600.00","171,672.00","166,251.00"
+9,J-Air,Total assets,Total assets,"1,087,600.00","1,216,612.00","1,340,168.00"
+10,J-Air,Cash and cash equivalents,Cash and cash equivalents,"272,400.00","347,986.00","368,774.00"
+11,J-Air,Total liabilities,Total liabilities,"673,766.00","633,423.00","629,103.00"
+0,China Postal Airlines,Operating revenue,Operating revenue,"98,547.00","108,584.00","111,652.00"
+1,China Postal Airlines,Operating revenue,Passenger,"88,271.00","97,145.00","100,238.00"
+2,China Postal Airlines,Operating revenue,Cargo and mail,"6,413.00","7,183.00","6,861.00"
+3,China Postal Airlines,Operating costs,Operating costs,"98,280.00","106,026.00","101,492.00"
+4,China Postal Airlines,Operating costs,Fuel,"35,538.00","37,728.00","26,274.00"
+5,China Postal Airlines,Operating costs,Aircraft and traffic servicing,"15,091.00","16,402.00","17,908.00"
+6,China Postal Airlines,Operating costs,Maintenance,"7,805.00","8,304.00","10,407.00"
+7,China Postal Airlines,Operating costs,Promotion and sales,"7,754.00","7,841.00","6,976.00"
+8,China Postal Airlines,Operating costs,Operating lease charges,"4,767.00","5,383.00","6,153.00"
+9,China Postal Airlines,Operating costs,Flight personnel payroll and welfare,"5,799.00","6,803.00","8,070.00"
+10,China Postal Airlines,Operating costs,Depreciation and amortisation,"9,347.00","10,828.00","11,845.00"
+11,China Postal Airlines,Operating profit (loss),Operating profit (loss),"1,510.00","4,748.00","13,438.00"
+12,China Postal Airlines,Net profit (loss),Net profit (loss),"2,750.00","2,398.00","4,818.00"
+13,China Postal Airlines,Total assets,Total assets,"165,207.00","189,688.00","185,989.00"
+14,China Postal Airlines,Cash and cash equivalents,Cash and cash equivalents,"11,748.00","15,414.00","4,560.00"
+15,China Postal Airlines,Total liabilities,Total liabilities,"122,756.00","145,195.00","136,365.00"
+0,easyJet Switzerland,Operating revenue,Operating revenue,"4,258.00","4,527.00","4,686.00"
+1,easyJet Switzerland,Operating costs,Operating costs,"3,761.00","3,946.00","3,998.00"
+2,easyJet Switzerland,Operating costs,Aircraft fuel,"1,182.00","1,251.00","1,199.00"
+3,easyJet Switzerland,Operating costs,Ground operations,"1,078.00","1,107.00","1,122.00"
+4,easyJet Switzerland,Operating costs,Crew,454,479,505
+5,easyJet Switzerland,Operating costs,Navigation,294,307,313
+6,easyJet Switzerland,Operating costs,Maintenance,212,212,229
+7,easyJet Switzerland,Operating profit (loss),Operating profit (loss),497,581,688
+8,easyJet Switzerland,Net profit (loss),Net profit (loss),398,450,548
+9,easyJet Switzerland,Total assets,Total assets,"4,412.00","4,482.00","4,828.00"
+10,easyJet Switzerland,Cash and cash equivalents,Cash and cash equivalents,"1,013.00",424,650
+11,easyJet Switzerland,Total liabilities,Total liabilities,"2,395.00","2,310.00","2,579.00"
+0,JEJU air,Total revenue,Total revenue,"341,160.00","434,146.50","510,636.30"
+1,JEJU air,Total costs,Total costs,"339,006.30","417,120.50","481,117.10"
+2,JEJU air,Total costs,Cost of sales,"300,213.20","372,625.50","423,317.20"
+3,JEJU air,Total costs,"Selling, administrative and general expenses","38,793.10","44,494.90","57,799.80"
+4,JEJU air,Operating profit (loss),Operating profit (loss),"2,153.70","17,026.00","29,519.20"
+5,JEJU air,Net profit (loss),Net profit (loss),"5,257.70","19,653.20","32,007.00"
+6,JEJU air,Total assets,Total assets,"122,528.30","180,902.00","263,681.10"
+7,JEJU air,Cash and cash equivalents,Cash and cash equivalents,"29,925.50","20,848.30","77,627.00"
+8,JEJU air,Total liabilities,Total liabilities,"89,283.30","131,866.00","183,590.00"
+0,Mount Cook Airline,Operating revenue,Operating revenue,"4,618.00","4,652.00","4,925.00"
+1,Mount Cook Airline,Operating revenue,Passenger,"3,765.00","3,851.00","4,113.00"
+2,Mount Cook Airline,Operating revenue,Cargo,301,287,258
+3,Mount Cook Airline,Operating costs,Operating costs,"3,720.00","3,649.00","3,764.00"
+4,Mount Cook Airline,Operating costs,Fuel,"1,204.00","1,121.00","1,089.00"
+5,Mount Cook Airline,Operating costs,Labour,"1,069.00","1,151.00","1,193.00"
+6,Mount Cook Airline,Operating costs,Aircraft operations,419,424,466
+7,Mount Cook Airline,Operating costs,Maintenance,303,285,320
+8,Mount Cook Airline,Operating costs,Depreciation and amortisation,411,436,402
+9,Mount Cook Airline,Profit (loss) before finance costs and taxation,Profit (loss) before finance costs and taxation,310,393,548
+10,Mount Cook Airline,Net profit (loss),Net profit (loss),182,263,327
+11,Mount Cook Airline,Total assets,Total assets,"5,612.00","5,850.00","6,775.00"
+12,Mount Cook Airline,Bank and short term deposits,Bank and short term deposits,"1,150.00","1,234.00","1,321.00"
+13,Mount Cook Airline,Total liabilities,Total liabilities,"3,796.00","3,978.00","4,810.00"
+14,Mount Cook Airline,Normalised profit (loss) before tax,Normalised profit (loss) before tax,,332,
+0,Aurora,Operating revenue,Operating revenue,"290,956.00","319,771.00","415,173.00"
+1,Aurora,Operating revenue,Scheduled passenger flights,"230,594.00","253,613.00","343,428.00"
+2,Aurora,Operating revenue,Cargo,"9,778.00","8,718.00","9,631.00"
+3,Aurora,Operating revenue,Charter passenger flights,"17,174.00","15,023.00","6,146.00"
+4,Aurora,Operating revenue,Other revenue,"33,410.00","42,417.00","55,968.00"
+5,Aurora,Operating costs,Operating costs,"271,161.00","308,503.00","371,066.00"
+6,Aurora,Operating costs,Aircraft fuel,"79,128.00","87,199.00","94,382.00"
+7,Aurora,Operating costs,Staff costs,"45,359.00","52,148.00","55,619.00"
+8,Aurora,Operating costs,Aircraft servicing and passenger services,"52,830.00","61,070.00","75,186.00"
+9,Aurora,Operating costs,Maintenance,"20,374.00","19,224.00","32,042.00"
+10,Aurora,Operating profit (loss),Operating profit (loss),"19,795.00","11,268.00","44,107.00"
+11,Aurora,Net profit (loss),Net profit (loss),"7,335.00","-17,146.00","-6,494.00"
+12,Aurora,Total assets,Total assets,"209,184.00","277,718.00","315,194.00"
+13,Aurora,Cash and cash equivalents,Cash and cash equivalents,"18,932.00","26,547.00","30,693.00"
+14,Aurora,Total liabilities,Total liabilities,"209,184.00","291,223.00","351,314.00"
+0,Air India Express,Total revenue,Total revenue,"147,138.10",,
+1,Air India Express,Total revenue,Operating revenue,"146,753.00","160,278.40","191,703.80"
+2,Air India Express,Total expenses,Total expenses,"234,594.80",,
+3,Air India Express,Total expenses,Aircraft fuel,"85,116.70",,
+4,Air India Express,Total expenses,Employee benefits,"35,666.50",,
+5,Air India Express,Total expenses,Finance costs,"36,454.90",,
+6,Air India Express,Total expenses,Depreciation and amortization expenses,"16,003.90",,
+7,Air India Express,Profit (loss) before exceptional and extraordinary items and tax,Profit (loss) before exceptional and extraordinary items and tax,"-87,456.70",,
+8,Air India Express,Net profit (loss),Net profit (loss),"-75,597.40","-54,901.60","-53,888.20"
+9,Air India Express,Total assets,Total assets,"426,716.10",,
+10,Air India Express,Cash and bank balances,Cash and bank balances,"4,310.10",,
+11,Air India Express,Total liabilities,Total liabilities,"262,284.40",,
+0,Air Nelson,Operating revenue,Operating revenue,"4,618.00","4,652.00","4,925.00"
+1,Air Nelson,Operating revenue,Passenger,"3,765.00","3,851.00","4,113.00"
+2,Air Nelson,Operating revenue,Cargo,301,287,258
+3,Air Nelson,Operating costs,Operating costs,"3,720.00","3,649.00","3,764.00"
+4,Air Nelson,Operating costs,Fuel,"1,204.00","1,121.00","1,089.00"
+5,Air Nelson,Operating costs,Labour,"1,069.00","1,151.00","1,193.00"
+6,Air Nelson,Operating costs,Aircraft operations,419,424,466
+7,Air Nelson,Operating costs,Maintenance,303,285,320
+8,Air Nelson,Operating costs,Depreciation and amortisation,411,436,402
+9,Air Nelson,Profit (loss) before finance costs and taxation,Profit (loss) before finance costs and taxation,310,393,548
+10,Air Nelson,Net profit (loss),Net profit (loss),182,263,327
+11,Air Nelson,Total assets,Total assets,"5,612.00","5,850.00","6,775.00"
+12,Air Nelson,Bank and short term deposits,Bank and short term deposits,"1,150.00","1,234.00","1,321.00"
+13,Air Nelson,Total liabilities,Total liabilities,"3,796.00","3,978.00","4,810.00"
+14,Air Nelson,Normalised profit (loss) before tax,Normalised profit (loss) before tax,,332,
+0,BA CityFlyer,Operating revenue,Operating revenue,"18,675.00","20,170.00","22,858.00"
+1,BA CityFlyer,Operating revenue,Passenger,"16,264.00","17,825.00","20,350.00"
+2,BA CityFlyer,Operating revenue,Cargo,"1,073.00",992,"1,024.00"
+3,BA CityFlyer,Operating costs,Operating costs,"17,905.00","18,780.00","20,523.00"
+4,BA CityFlyer,Operating costs,Employee costs,"4,123.00","4,325.00","4,905.00"
+5,BA CityFlyer,Operating costs,Fuel and oil costs,"5,951.00","5,987.00","6,082.00"
+6,BA CityFlyer,Operating costs,"Handling, catering and other operating costs","1,932.00","2,063.00","2,371.00"
+7,BA CityFlyer,Operating costs,Landing fees and en-route charges,"1,422.00","1,555.00","1,882.00"
+8,BA CityFlyer,Operating costs,Engineering and other aircraft costs,"1,237.00","1,276.00","1,395.00"
+9,BA CityFlyer,Operating costs,"Depreciation, amortisation and impairment","1,006.00","1,196.00","1,307.00"
+10,BA CityFlyer,Operating costs,"Property, IT and other costs",922,927,965
+11,BA CityFlyer,Operating costs,Selling costs,785,859,912
+12,BA CityFlyer,Operating costs,Aircraft operating lease,482,551,659
+13,BA CityFlyer,Operating profit (loss),Operating profit (loss),770,"1,390.00","2,335.00"
+14,BA CityFlyer,Net profit (loss),Net profit (loss),147,"1,003.00","1,539.00"
+15,BA CityFlyer,Total assets,Total assets,"20,777.00","23,652.00","28,229.00"
+16,BA CityFlyer,Cash and cash equivalents,Cash and cash equivalents,"1,541.00","1,528.00","2,909.00"
+17,BA CityFlyer,Total liabilities,Total liabilities,"16,561.00","19,859.00","22,695.00"
+0,AirAsia X,Total revenue,Total revenue,"1,967.40","2,307.50","2,936.70"
+1,AirAsia X,Total revenue,Scheduled flights,"1,283.60","1,406.50","1,630.10"
+2,AirAsia X,Total revenue,Charter flights,67.8,107,171.6
+3,AirAsia X,Total revenue,Fuel surcharge,148.2,253.8,344.1
+4,AirAsia X,Total revenue,Freight and cargo,79.3,90,113.9
+5,AirAsia X,Total revenue,Ancillary,363.9,451.6,586.5
+6,AirAsia X,Total operating costs,Total operating costs,"1,925.40","2,297.30","3,304.00"
+7,AirAsia X,Total operating costs,Aircraft fuel,925.3,"1,097.90","1,519.90"
+8,AirAsia X,Total operating costs,"Maintenance, overhaul, user charges and other related expenses",381.5,432.1,638.2
+9,AirAsia X,Total operating costs,Staff,180.5,234.4,313
+10,AirAsia X,Total operating costs,Aircraft operating lease expense,152.4,186.7,338
+11,AirAsia X,Total operating costs,"Depreciation of property, plant and equipment",107.1,139,180.7
+12,AirAsia X,Operating profit (loss),Operating profit (loss),49,35.7,-212.1
+13,AirAsia X,Net profit (loss),Net profit (loss),33.8,-87,-519.4
+14,AirAsia X,Total assets,Total assets,"2,428.10","3,994.30","2,727.80"
+15,AirAsia X,"Deposits, cash and bank balances","Deposits, cash and bank balances",174,264.7,127.2
+16,AirAsia X,Total liabilities,Total liabilities,"1,847.40","2,756.90","2,024.20"
+0,GoAir,Total operating revenue,Total operating revenue,"8,916.20","13,281.00","15,633.70"
+1,GoAir,Total operating revenue,Passenger,"8,106.20","13,198.00","15,127.10"
+2,GoAir,Total operating revenue,Excess baggage,13.1,,58.6
+3,GoAir,Total operating costs,Total operating costs,"9,088.00","12,120.00","16,380.30"
+4,GoAir,Total operating costs,Flight operations,"6,198.80",,"11,780.60"
+5,GoAir,Total operating costs,"Ticketing, sales and promotion",672,,"1,021.90"
+6,GoAir,Total operating costs,User charges and station expenses,"1,448.60",,"1,982.20"
+7,GoAir,Total operating costs,Maintenance and overhaul,,156,247.7
+8,GoAir,Total operating costs,Depreciation and amortisation,18.8,49,67.8
+9,GoAir,Total operating costs,Passenger services,64.8,,138.1
+10,GoAir,Total operating costs,General and administrative,685,,"1,142.00"
+11,GoAir,Operating profit (loss),Operating profit (loss),-126.8,"1,112.00",-746.6
+12,GoAir,Net profit (loss),Net profit (loss),-898.9,592,"-1,337.20"
+13,GoAir,Net profit (loss),Freight,72.3,,
+0,Iberia Express,Operating revenue,Operating revenue,"18,675.00","20,170.00","22,858.00"
+1,Iberia Express,Operating revenue,Passenger,"16,264.00","17,825.00","20,350.00"
+2,Iberia Express,Operating revenue,Cargo,"1,073.00",992,"1,024.00"
+3,Iberia Express,Operating costs,Operating costs,"17,905.00","18,780.00","20,523.00"
+4,Iberia Express,Operating costs,Employee costs,"4,123.00","4,325.00","4,905.00"
+5,Iberia Express,Operating costs,Fuel and oil costs,"5,951.00","5,987.00","6,082.00"
+6,Iberia Express,Operating costs,"Handling, catering and other operating costs","1,932.00","2,063.00","2,371.00"
+7,Iberia Express,Operating costs,Landing fees and en-route charges,"1,422.00","1,555.00","1,882.00"
+8,Iberia Express,Operating costs,Engineering and other aircraft costs,"1,237.00","1,276.00","1,395.00"
+9,Iberia Express,Operating costs,"Depreciation, amortisation and impairment","1,006.00","1,196.00","1,307.00"
+10,Iberia Express,Operating costs,"Property, IT and other costs",922,927,965
+11,Iberia Express,Operating costs,Selling costs,785,859,912
+12,Iberia Express,Operating costs,Aircraft operating lease,482,551,659
+13,Iberia Express,Operating profit (loss),Operating profit (loss),770,"1,390.00","2,335.00"
+14,Iberia Express,Net profit (loss),Net profit (loss),147,"1,003.00","1,539.00"
+15,Iberia Express,Total assets,Total assets,"20,777.00","23,652.00","28,229.00"
+16,Iberia Express,Cash and cash equivalents,Cash and cash equivalents,"1,541.00","1,528.00","2,909.00"
+17,Iberia Express,Total liabilities,Total liabilities,"16,561.00","19,859.00","22,695.00"
+0,Jin Air,Total revenue,Total revenue,"247,510.30","283,330.40","351,056.20"
+1,Jin Air,Total costs,Total costs,"233,021.80","276,230.00","334,163.80"
+2,Jin Air,Total costs,Salary and retirement benefits,"23,286.30","27,933.90","36,555.30"
+3,Jin Air,Total costs,Employee benefits,"1,718.30","2,017.20","2,742.60"
+4,Jin Air,Total costs,Depreciation and amortisation,"2,787.10","2,800.80","2,708.00"
+5,Jin Air,Total costs,Fuel,"91,279.30","103,469.50","119,871.70"
+6,Jin Air,Total costs,Rental expenses,"29,230.20","37,121.40","42,063.40"
+7,Jin Air,Total costs,Other,"80,311.60","97,519.40","122,767.50"
+8,Jin Air,Operating profit (loss),Operating profit (loss),"14,488.40","7,100.40","16,892.30"
+9,Jin Air,Net profit (loss),Net profit (loss),"9,832.70","4,223.40","13,080.30"
+10,Jin Air,Total assets,Total assets,"70,147.80","88,642.80","126,738.90"
+11,Jin Air,Cash and cash equivalents,Cash and cash equivalents,"7,611.20","12,575.00","34,926.20"
+12,Jin Air,Total liabilities,Total liabilities,"56,829.10","70,879.10","96,736.70"
+13,Jin Air,Total liabilities,Commissions,,"5,367.80","7,455.30"
+0,Firefly,Operating revenue,Operating revenue,"13,653.90","13,286.60","14,548.20"
+1,Firefly,Operating revenue,Passenger and excess baggage,"8,397.70","10,311.00","11,260.00"
+2,Firefly,Operating revenue,Cargo and mail,"1,234.60","1,641.00","1,614.00"
+3,Firefly,Operating costs,Operating costs,"16,197.20","13,569.10","14,867.00"
+4,Firefly,Operating costs,Staff costs,"2,325.10","2,515.60","2,327.00"
+5,Firefly,Operating costs,Fuel and oil,"5,845.60","5,327.70","5,870.00"
+6,Firefly,Operating costs,"Handling, enroute charges, catering and other related costs","1,416.90","1,135.00","1,461.00"
+7,Firefly,Operating costs,Aircraft maintenance and overhaul,"1,100.70",975.9,"1,145.00"
+8,Firefly,Operating costs,Depreciation,423.6,548,817
+9,Firefly,Operating profit (loss),Operating profit (loss),"-2,295.70",-361,-562.5
+10,Firefly,Net profit (loss),Net profit (loss),"-2,521.30",-432.6,"-1,173.70"
+11,Firefly,Total assets,Total assets,"12,499.50","17,412.20","21,855.30"
+12,Firefly,Cash and cash equivalents,Cash and cash equivalents,958.8,"2,148.50","3,870.60"
+13,Firefly,Total liabilities,Total liabilities,"11,443.30","15,274.20","17,803.20"
+0,Hebei Airlines,Operating revenue,Operating revenue,"98,547.00","108,584.00","111,652.00"
+1,Hebei Airlines,Operating revenue,Passenger,"88,271.00","97,145.00","100,238.00"
+2,Hebei Airlines,Operating revenue,Cargo and mail,"6,413.00","7,183.00","6,861.00"
+3,Hebei Airlines,Operating costs,Operating costs,"98,280.00","106,026.00","101,492.00"
+4,Hebei Airlines,Operating costs,Fuel,"35,538.00","37,728.00","26,274.00"
+5,Hebei Airlines,Operating costs,Aircraft and traffic servicing,"15,091.00","16,402.00","17,908.00"
+6,Hebei Airlines,Operating costs,Maintenance,"7,805.00","8,304.00","10,407.00"
+7,Hebei Airlines,Operating costs,Promotion and sales,"7,754.00","7,841.00","6,976.00"
+8,Hebei Airlines,Operating costs,Operating lease charges,"4,767.00","5,383.00","6,153.00"
+9,Hebei Airlines,Operating costs,Flight personnel payroll and welfare,"5,799.00","6,803.00","8,070.00"
+10,Hebei Airlines,Operating costs,Depreciation and amortisation,"9,347.00","10,828.00","11,845.00"
+11,Hebei Airlines,Operating profit (loss),Operating profit (loss),"1,510.00","4,748.00","13,438.00"
+12,Hebei Airlines,Net profit (loss),Net profit (loss),"2,750.00","2,398.00","4,818.00"
+13,Hebei Airlines,Total assets,Total assets,"165,207.00","189,688.00","185,989.00"
+14,Hebei Airlines,Cash and cash equivalents,Cash and cash equivalents,"11,748.00","15,414.00","4,560.00"
+15,Hebei Airlines,Total liabilities,Total liabilities,"122,756.00","145,195.00","136,365.00"
+0,Jetstar Japan,Operating revenue,Operating revenue,"29,091.00","41,981.00","52,238.00"
+1,Jetstar Japan,Operating costs,Operating costs,"39,820.00","49,926.00","50,933.00"
+2,Jetstar Japan,Operating profit (loss),Operating profit (loss),"-10,729.00","-7,945.00","1,305.00"
+3,Jetstar Japan,Net profit (loss),Net profit (loss),"-11,101.00","-7,571.00",63
+4,Jetstar Japan,Total assets,Total assets,"10,704.00",,
+5,Jetstar Japan,Total liabilities,Total liabilities,"10,290.00",,

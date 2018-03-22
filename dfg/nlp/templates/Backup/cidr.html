@@ -1,0 +1,42 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Competitive Intelligence Dashboard</title>
+  <meta name="description" content="Description of your site goes here">
+  <meta name="keywords" content="keyword1, keyword2, keyword3">
+  <link href="/static/css/table2.css" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.3.min.css" type="text/css" />        
+  <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.3.min.js"></script>
+
+  {{ script|safe }}
+  {{ script2|safe }}
+</head>
+	
+	
+   <body>
+   <div style="margin-top:2px;" align="center"> 
+		<p><font size="15" color="Blue">{{ arln_name|safe }}</font></p>
+	</div>
+  
+		<br></br>
+		<table style="width:100%">
+		  <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div|safe }} </th>
+				<th> </th>
+				<th> {{ username|safe }}  </th> 
+			</div>
+		  </tr>
+			<tr>
+				<div style="width: 20%; display: inline-block;">
+					<td>{{ div2 | safe }}</td>
+					<td></td> 
+					<td>{{ df2 | safe }}</td>
+				</div>
+			</tr>
+			
+		</table>
+   </body>
+   
+</html>

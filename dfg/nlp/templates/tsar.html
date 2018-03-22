@@ -1,0 +1,102 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Twitter Sentiment Analysis</title>
+  <meta name="description" content="Description of your site goes here">
+  <meta name="keywords" content="keyword1, keyword2, keyword3">
+  <link href="/static/css/table2.css" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css" type="text/css" />        
+  <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.js"></script>
+
+  {{ script|safe }}
+  {{ script2|safe }}
+  {{ script3|safe }}
+  {{ script4|safe }}
+  {{ script5|safe }}
+  {{ script6|safe }}
+ 
+  {% load static %}
+  {% get_static_prefix as STATIC_PREFIX %}
+</head>
+	
+	
+   <body>
+   <div style="margin-top:2px;" align="center"> 
+		<p><font size="5" color="Purple"> Sentiment Analysis using Twitter Data </font></p>
+		<p><font size="9" color="Blue">{{ arln_name|safe }}</font></p>	
+
+		<p><font size="20" color="Fuchsia">{{ cnt|safe }}</font> <font size="2" color="Purple">Tweets </font>  </p> 
+		<p><font size="2" color="Purple"> {{ dtt|safe }}</font></p>	
+	</div>
+
+   
+		<table style="width:100%">
+		
+		  <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div4|safe }} </th>			
+				<th> {{ div5|safe }}  </th> 
+			</div>
+		  </tr>
+		  
+		  <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div6|safe }} </th>			
+				<th> {{ df5|safe }}  </th> 
+			</div>
+		  </tr>
+		  
+		  
+			<tr>
+				<div style="width: 20%; display: inline-block;">
+					<td>{{ div2 | safe }}</td>
+				 
+					<td>{{ df2 | safe }}</td>
+				</div>
+			</tr>
+			
+			<tr>
+				<div style="width: 20%; display: inline-block;">
+					<td>{{ div3 | safe }}</td>
+				
+					<td>{{ df3 | safe }}</td>
+				</div>
+			</tr>
+			
+		  <tr>
+			<div style="width: 20%; display: inline-block;">
+				<th>  {{ div|safe }} </th>
+			
+				<th> {{ username|safe }}  </th> 
+			</div>
+		  </tr>
+		  
+		  <tr>		  
+		  	<div style="width: 100%; display: inline-block;">
+				<th> 
+				 <font size="3" color ="blue"> This is top 6 different Topic's important keywords</font>	
+				 {{ txt|safe }} 
+				 </th>
+			  
+				<th>
+				    <font size="3" color ="blue"> Overall important keywords in word cloud</font>	
+					{{ htm|safe }} 				 		
+				</th>
+			</div>
+			<p></p>			
+		  </tr>
+		  
+	
+		  
+			
+		</table>
+		
+		<br></br>		
+		<br></br>		
+		<br></br>		
+		<br></br>		
+		<br></br>
+   </body>
+   
+</html>
